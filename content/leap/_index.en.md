@@ -7,6 +7,11 @@ menuTitle = "LEAP"
 # About
 LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research centre for fundamental and applied AI research.
 
+## Awards and Recognition
+
+- 2021 Clever Campus Innovation Award: Recognized by the Tertiary Education Facilities Management Association (TEFMA) for its innovative approach to campus energy management.
+- Best Paper Award: Awarded at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track, acknowledging LEAP's conceptual excellence.
+
 # La Trobe's Net Zero Emissions Goal
 La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
 
@@ -45,7 +50,7 @@ Explore our platform to learn more about our journey towards a sustainable futur
 
 LEAP has enabled international research collaborations with Lulea University of Technology, Sweden, and Aalto University, Finland. These collaborations focus on spatiotemporal AI for energy market price dynamics and adaptive multi-energy virtual power plants for complex buildings.
 
-## Community Engagement:
+## Community Engagement
 
 LEAP is shared with the local community, including schools and community centers. It serves as a change agent, bringing together local schools and residents through public events like hackathons and seminars. Feedback and lessons learned are dispersed to the public to further emissions reduction and operational efficiency.
 
@@ -54,10 +59,6 @@ LEAP is shared with the local community, including schools and community centers
 - https://github.com/CDAC-lab/UNICON
 - https://github.com/CDAC-lab/UNISOLAR
 
-## Awards and Recognition:
+## Contact Us
 
-- 2021 Clever Campus Innovation Award: Recognized by the Tertiary Education Facilities Management Association (TEFMA) for its innovative approach to campus energy management.
-- Best Paper Award: Awarded at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track, acknowledging LEAP's conceptual excellence.
-
-
-Explore LEAP to learn more about our technology, innovations, and how we are making a difference in energy management and sustainability. Join us on our journey towards a net zero future.
+Want to to learn more about our technology, innovations, and how we are making a difference in energy management and sustainability? Get in touch cdac@latrobe.edu.au 

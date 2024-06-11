@@ -21,18 +21,18 @@ La Trobe University aims to achieve Net Zero emissions by 2029, becoming the fir
 
 La Trobe University has already achieved significant milestones on its journey to net zero, including achieving net zero emissions status for its regional campuses by 2022. The university has installed around 7,500 solar panels at its Bundoora campus, generating 2.5 MW of renewable energy. Additionally, a new solar farm at Bundoora, set to be the largest urban solar farm in Victoria, will further boost the university's renewable energy capacity​ (Home)​​ (Mirage News)​​ (Sustainability Matters Australia)​​ (pv magazine Australia)​.
 
-# How LEAP Supports the Net Zero Goal
+# How LEAP Enables Net Zero Emissions
 LEAP plays a crucial role in La Trobe’s Net Zero by 2029 initiative by providing advanced energy analytics and insights that drive efficient energy management and sustainable practices across the university. By integrating AI with real-time data processing, LEAP empowers decision-makers to optimize energy use, reduce waste, and implement effective sustainability measures.
 
 Explore our platform to learn more about our journey towards a sustainable future and how LEAP is making a difference.
 
 ## Project Leadership and Team:
 
-- Project Lead: Daswin De Silva (d.desilva@latrobe.edu.au)
-- Technical Architect: Nishan Mills (n.mills@latrobe.edu.au)
-- Team Members: The CDAC team building LEAP consists of four full-time academics, ten PhD students, and two Master's by research students.
-
-Ethical Oversight: The CDAC Ethics committee provides complete ethical, governance, and compliance oversight and advice at each stage of LEAP development and deployment.
+- Project Sponsor: Andrew Jennings, Director - Infrastructure
+- Project Lead: Prof Daswin De Silva
+- Technical Architect: Dr Nishan Mills
+- Team Members: The CDAC team building LEAP consists of eight full-time PhD candidates.
+- Ethics Oversight: The CDAC Ethics committee provides complete ethical, governance, and compliance oversight and advice at each stage of LEAP development and deployment.
 
 ## Technological Innovations:
 
@@ -49,6 +49,10 @@ LEAP has enabled international research collaborations with Lulea University of 
 
 LEAP is shared with the local community, including schools and community centers. It serves as a change agent, bringing together local schools and residents through public events like hackathons and seminars. Feedback and lessons learned are dispersed to the public to further emissions reduction and operational efficiency.
 
+## Publicly Available Datasets
+
+- https://github.com/CDAC-lab/UNICON
+- https://github.com/CDAC-lab/UNISOLAR
 
 ## Awards and Recognition:
 

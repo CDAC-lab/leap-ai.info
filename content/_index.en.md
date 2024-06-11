@@ -5,10 +5,10 @@ title = "La Trobe Energy Analytics Platform (LEAP)"
 
 {{< slideshow path="images/slideshow">}}
 
-## La Trobe Energy Analytics Platform (LEAP)
+## La Trobe Energy AI Platform (LEAP)
 
 ### What is LEAP?
-LEAP (La Trobe Energy Analytics Platform) is the flagship Artificial Intelligence initiative of La Trobe University’s Net Zero by 2029 Program. LEAP harnesses the power of AI to process a billion data points, generating a thousand actionable insights conveyed through a net zero chatbot, designed to aid human decision-making in energy management.
+LEAP (La Trobe Energy AI Platform) is the flagship Artificial Intelligence initiative of La Trobe University’s Net Zero by 2029 Program. LEAP harnesses the power of AI to process a billion data points, generating a thousand actionable insights conveyed through a net zero chatbot, designed to aid human decision-making in energy management.
 
 Key Features of LEAP:
 
@@ -22,7 +22,7 @@ Key Features of LEAP:
 
 - **Collaboration and Innovation**: Developed in collaboration with the Centre for Data Analytics and Cognition (CDAC) at La Trobe, LEAP embodies the university's innovative approach to tackling environmental challenges. The platform has been recognized for its excellence with awards such as the 2021 Clever Campus Innovation Award by TEFMA and the Best Paper Award at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track.
 
-- **Educational and Research Benefits**: LEAP serves as a living lab for students and researchers, providing a real-world environment to study and innovate in energy management. The platform also facilitates hands-on learning and research opportunities, enhancing the educational experience at La Trobe University.
+- **Learning and Research Enabler**: LEAP serves as a living lab for students and researchers, providing a real-world environment to study and innovate in energy management. The platform also facilitates hands-on learning and research opportunities, enhancing the educational experience at La Trobe University.
 
 ### Awards and Recognition
 - 2021 Clever Campus Innovation Award by the Australasian Tertiary Education Facilities Management Association (TEFMA) 

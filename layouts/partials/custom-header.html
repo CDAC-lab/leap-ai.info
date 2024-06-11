@@ -1,0 +1,93 @@
+<!-- Partial intended to be overwritten to add custom headers, like CSS or any other info
+<style>
+   /* Custom css */
+</style>
+-->   
+
+
+<div class="navbar">
+   <!-- Breadcrumb-->
+   <ul class="nav navbar-nav nav-flex-icons ml-auto">
+     <li class="nav-item">
+       <a href="https://www.latrobe.edu.au/news/announcements/2021/la-trobe-leaps-toward-net-zero-goal" target="_blank" rel="noopener" class="navbar-brand">
+         <img src="/images/leap.png" height="40" alt="" class="nav-image">
+       </a>
+     </li>
+     <li class="nav-item">
+       <a href="https://www.latrobe.edu.au/sustainability/net-zero" target="_blank" rel="noopener" class="navbar-brand">
+         <img src="/images/latrobe.png" height="40" alt="" style="margin-right: 1.4em;" class="nav-image">
+       </a>
+     </li>
+   </ul>
+</div>
+
+ <style>
+   .navbar {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 10px;
+   }
+
+   .nav {
+        list-style-type: none; /* Removes the bullets */
+        padding: 0; /* Removes default padding */
+        margin: 0; /* Removes default margin */
+        display: flex; /* Ensures nav items are in a row */
+    }
+    
+   /* Style for the right header (image links) */
+   .nav-flex-icons {
+       display: flex;
+       align-items: center;
+       justify-content: flex-end; /* Aligns items to the right, keeping them in one row */
+   }
+
+   .nav-item {
+       margin-left: 10px; /* Spacing between nav items */
+   }
+
+   .nav-item img {
+       height: 50px; 
+       width: auto; /* Width is auto to maintain aspect ratio */
+       max-height: 50px; /* Maximum height for images */
+   }
+
+   /* Responsive adjustments */
+   @media (max-width: 768px) {
+       .nav-flex-icons {
+           justify-content: center; /* Centers items to ensure they fit in one row on smaller screens */
+       }
+
+       .nav-item img {
+           max-height: 40px; /* Even smaller images on small screens */
+       }
+
+   }
+
+   @media (max-width: 576px) {
+      .nav-item {
+           margin-left: 5px; /* Smaller margin between items */
+       }
+
+       .nav-item:first-child img {
+       margin-right: 10px; /* Add a margin to the right of the first logo */
+      }
+
+       .nav-item img {
+           max-height: 30px; /* Smallest images on extra small screens */
+       }
+    }
+
+    @media (max-width: 370px) {
+
+      .nav-item:first-child img {
+       margin-right: 10px; /* Add a margin to the right of the first logo */
+   }
+
+       .nav-item img {
+           max-height: 20px; /* Smallest images on extra small screens */
+       }
+
+    }
+</style>

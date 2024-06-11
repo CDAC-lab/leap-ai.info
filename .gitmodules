@@ -1,0 +1,5 @@
+[submodule "themes/hugo-theme-ies-con"]
+    path = themes/hugo-theme-ies-con
+    url = https://github.com/lakshithagunasekara/hugo-theme-ies-con.git
+
+

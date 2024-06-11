@@ -5,7 +5,7 @@ menuTitle = "LEAP"
 +++
 
 # Overview
-LEAP (La Trobe Energy AI Platform) is a comprehensive energy management and optimization platform that leverages advanced Artificial Intelligence and data analytics to support La Trobe University’s Net Zero by 2029 Program. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research center for fundamental and applied AI research.
+LEAP (La Trobe Energy AI Platform) is a La Trobe University's flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research center for fundamental and applied AI research.
 
 # What is La Trobe's Net Zero Emissions Goal?
 La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian university to reach this milestone. The ambitious program covers:

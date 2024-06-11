@@ -12,7 +12,7 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project 
 - 2021 Clever Campus Innovation Award: Recognized by the Tertiary Education Facilities Management Association (TEFMA) for its innovative approach to campus energy management.
 - Best Paper Award: Awarded at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track, acknowledging LEAP's conceptual excellence.
 
-## Project Leadership and Team:
+## Project Leadership and Team
 
 - Project Sponsor: Andrew Jennings
 - Project Lead: Prof Daswin De Silva
@@ -20,14 +20,14 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project 
 - Team Members: The CDAC team building LEAP consists of eight full-time PhD candidates.
 - Ethics Oversight: The CDAC Ethics committee provides complete ethical, governance, and compliance oversight and advice at each stage of LEAP development and deployment.
 
-## Technological Innovations:
+## Technological Innovations
 
 - All-Data Lakehouse: Generates a single-version-of-truth, centralized repository of internal data streams on consumption, generation, utilization, events, and external data streams of weather, climate, tariff, and energy market metrics.
 - Data Quality Framework: Validates all data feeds to standards and formats, ensuring the all-data lakehouse is inclusive and complete.
 - AI and Automation Engine: Consists of multiple intelligent and automated functions, including baseline prediction, short-term and long-term consumption and generation forecasting, anomaly detection, tariff simulation, and bill validation.
 - Multi-Stakeholder Analytics Dashboards: Visualize energy metrics, forecasts, fluctuations, trends, and outliers that can be analyzed by various stakeholders, such as users, operators, managers, providers, and advocacy groups.
 
-## International Collaborations:
+## International Collaborations
 
 LEAP has enabled international research collaborations with Lulea University of Technology, Sweden, and Aalto University, Finland. These collaborations focus on spatiotemporal AI for energy market price dynamics and adaptive multi-energy virtual power plants for complex buildings.
 

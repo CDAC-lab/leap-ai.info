@@ -54,6 +54,6 @@ La Trobe University aims to achieve Net Zero emissions by 2029, becoming the fir
 
 La Trobe University has already achieved significant milestones on its journey to net zero, including achieving net zero emissions status for its regional campuses by 2022. The university has installed around 7,500 solar panels at its Bundoora campus, generating 2.5 MW of renewable energy. Additionally, a new solar farm at Bundoora, set to be the largest urban solar farm in Victoria, will further boost the university's renewable energy capacity​​.
 
-## Contact Us
+# Contact Us
 
 Want to to learn more about our technology, innovations, and how we are making a difference in energy management and sustainability? Get in touch cdac@latrobe.edu.au 

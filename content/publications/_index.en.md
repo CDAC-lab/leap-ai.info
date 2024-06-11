@@ -1,10 +1,10 @@
 +++
-title = "Publication Records"
+title = "LEAP Research Publications"
 weight = 5
 menuTitle = "Publications"
 +++
 
-### Publications from LEAP
+### Research Publications Originating from LEAP
 
 
 - Optimizing Generative AI Chatbots for Net-Zero Emissions Energy Internet-of-Things Infrastructure, 2024, Matharaarachchi, A.; Mendis, W.; Randunu, K.; De Silva, D.; Gamage, G.; Moraliyage, H.; Mills, N.; Jennings, A. [doi: 10.3390/en17081935](https://doi.org/10.3390/en17081935)

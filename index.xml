@@ -8,6 +8,14 @@
     <language>en</language>
     <atom:link href="https://leap-ai.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About LEAP</title>
+      <link>https://leap-ai.info/leap/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/leap/index.html</guid>
+      <description>Overview LEAP (La Trobe Energy AI Platform) is a comprehensive energy management and optimization platform that leverages advanced Artificial Intelligence and data analytics to support La Trobe University’s Net Zero by 2029 Program. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research center for fundamental and applied AI research.
+What is La Trobe&amp;rsquo;s Net Zero Emissions Goal?</description>
+    </item>
+    <item>
       <title>Publication Records</title>
       <link>https://leap-ai.info/publications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

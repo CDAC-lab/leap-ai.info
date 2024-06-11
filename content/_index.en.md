@@ -12,9 +12,9 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship AI projec
 
 Key Features of LEAP:
 
-- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and building performance for up to 50 buildings across La Trobe’s campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy use.
+- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and building performance in 200 buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy use.
 
-- **AI and Machine Learning**: The platform employs AI and machine learning algorithms to predict solar energy generation, detect anomalies in energy usage, and forecast future energy consumption. This predictive capability helps in making proactive adjustments to reduce energy waste.
+- **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short-long term energy usage forecasting, prediction of solar energy generation, Anomalous energy usa detection, and insights generation for human decision-making. 
 
 - **Actionable Insights**: By processing a billion data points, LEAP generates a thousand actionable insights, which are conveyed through a net zero chatbot. These insights help facility managers and decision-makers optimize building management systems (BMS) and implement energy-saving measures in real time.
 

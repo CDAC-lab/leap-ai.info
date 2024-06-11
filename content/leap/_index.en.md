@@ -4,7 +4,7 @@ weight = 5
 menuTitle = "LEAP"
 +++
 
-# LEAP
+# About
 LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research centre for fundamental and applied AI research.
 
 # La Trobe's Net Zero Emissions Goal

@@ -4,11 +4,11 @@ weight = 5
 menuTitle = "LEAP"
 +++
 
-# Overview
-LEAP (La Trobe Energy AI Platform) is a La Trobe University's flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research center for fundamental and applied AI research.
+# LEAP
+LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research centre for fundamental and applied AI research.
 
-# What is La Trobe's Net Zero Emissions Goal?
-La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian university to reach this milestone. The ambitious program covers:
+# La Trobe's Net Zero Emissions Goal
+La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
 
 - **Campus Coverage**: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces.
 - **Large Scale Projects**: 20 significant projects across the university focusing on:
@@ -40,10 +40,6 @@ Ethical Oversight: The CDAC Ethics committee provides complete ethical, governan
 - Data Quality Framework: Validates all data feeds to standards and formats, ensuring the all-data lakehouse is inclusive and complete.
 - AI and Automation Engine: Consists of multiple intelligent and automated functions, including baseline prediction, short-term and long-term consumption and generation forecasting, anomaly detection, tariff simulation, and bill validation.
 - Multi-Stakeholder Analytics Dashboards: Visualize energy metrics, forecasts, fluctuations, trends, and outliers that can be analyzed by various stakeholders, such as users, operators, managers, providers, and advocacy groups.
-
-## Educational Integration:
-
-LEAP is integrated into La Trobe’s Master of Business Analytics and Bachelor of Business Analytics degrees. Approximately 150 students use the platform to gain awareness of the net zero program, learn time-series forecasting algorithms and predictive analytics techniques in a real-world setting, and develop AI libraries and analytics dashboards using cutting-edge technologies.
 
 ## International Collaborations:
 

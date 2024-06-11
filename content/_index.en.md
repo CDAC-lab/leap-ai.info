@@ -26,4 +26,4 @@ Key Features of LEAP:
 
 ### Awards and Recognition
 - 2021 Clever Campus Innovation Award by the Australasian Tertiary Education Facilities Management Association (TEFMA) 
-- Best Paper Award at the IEEE Human System Interaction Conference 2022: Mills, N., Rathnayaka, P., Moraliyage, H., De Silva, D. and Jennings, A., 2022, July. Cloud edge architecture leveraging artificial intelligence and analytics for microgrid energy optimisation and net zero carbon emissions. In 2022 15th International Conference on Human System Interaction (HSI) (pp. 1-7). IEEE.
+- Best Paper Award at the IEEE 16th International Conference on Human System Interaction (HSI 2022): Mills, N., Rathnayaka, P., Moraliyage, H., De Silva, D. and Jennings, A., 2022, July. Cloud edge architecture leveraging artificial intelligence and analytics for microgrid energy optimisation and net zero carbon emissions. In 2022 15th International Conference on Human System Interaction (HSI) (pp. 1-7). IEEE.

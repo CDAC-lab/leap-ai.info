@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "La Trobe Energy Analytics Platform (LEAP)"
+title = "La Trobe Energy AI Platform (LEAP)"
 +++
 
 {{< slideshow path="images/slideshow">}}

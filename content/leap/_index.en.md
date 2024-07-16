@@ -12,13 +12,7 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project 
 - 2021 Clever Campus Innovation Award: Recognized by the Tertiary Education Facilities Management Association (TEFMA) for its innovative approach to campus energy management.
 - Best Paper Award: Awarded at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track, acknowledging LEAP's conceptual excellence.
 
-## Project Leadership and Team
 
-- Project Sponsor: Andrew Jennings
-- Project Lead: Prof Daswin De Silva
-- Technical Architect: Dr Nishan Mills
-- Team Members: The CDAC team building LEAP consists of eight full-time PhD candidates.
-- Ethics Oversight: The CDAC Ethics committee provides complete ethical, governance, and compliance oversight and advice at each stage of LEAP development and deployment.
 
 ## Technological Innovations
 

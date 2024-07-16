@@ -8,20 +8,20 @@
     <language>en</language>
     <atom:link href="https://leap-ai.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About LEAP</title>
-      <link>https://leap-ai.info/leap/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leap-ai.info/leap/index.html</guid>
-      <description>Net Zero Emissions La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
-Campus Coverage: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces. Large Scale Projects: 20 significant projects across the university focusing on: Renewable Energy Expansion: Installation of Solar PV systems with 2.5Mw capacity in Bundoora and 1.1Mw in regional campuses. Electrical Infrastructure Overhaul: Including extensive LED lighting upgrades.</description>
-    </item>
-    <item>
       <title>LEAP Research Publications</title>
       <link>https://leap-ai.info/publications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leap-ai.info/publications/index.html</guid>
       <description>Research Publications Originating from LEAP 2024 Explainable Artificial Intelligence for Crowd Forecasting Using Global Ensemble Echo State Networks. Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Rathnayaka, P. and Jennings, A., 2024. IEEE Open Journal of the Industrial Electronics Society. Publisher: IEEE DOI:10.1109/OJIES.2024.3397789
 Optimizing Generative AI Chatbots for Net-Zero Emissions Energy Internet-of-Things Infrastructure. Matharaarachchi, A., Mendis, W., Randunu, K., De Silva, D., Gamage, G., Moraliyage, H., Mills, N. &amp;amp; Jennings, A.</description>
+    </item>
+    <item>
+      <title>Net Zero Emissions</title>
+      <link>https://leap-ai.info/leap/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/leap/index.html</guid>
+      <description>Net Zero Emissions La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
+Campus Coverage: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces. Large Scale Projects: 20 significant projects across the university focusing on: Renewable Energy Expansion: Installation of Solar PV systems with 2.5Mw capacity in Bundoora and 1.1Mw in regional campuses. Electrical Infrastructure Overhaul: Including extensive LED lighting upgrades.</description>
     </item>
   </channel>
 </rss>

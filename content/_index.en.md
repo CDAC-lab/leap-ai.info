@@ -27,3 +27,16 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 ### Awards and Recognition
 - 2021 Clever Campus Innovation Award by the Australasian Tertiary Education Facilities Management Association (TEFMA) 
 - Best Paper Award at the IEEE 16th International Conference on Human System Interaction (HSI 2022): Mills, N., Rathnayaka, P., Moraliyage, H., De Silva, D. and Jennings, A., 2022, July. Cloud edge architecture leveraging artificial intelligence and analytics for microgrid energy optimisation and net zero carbon emissions. In 2022 15th International Conference on Human System Interaction (HSI) (pp. 1-7). IEEE.
+
+## LEAP Partners
+
+- Lulea University of Technology, Sweden
+- Aalto University, Finland
+- RMIT University, Australia
+- C4NET, Australia
+
+## LEAP Datasets
+The following datasets are publicly accessible for energy AI R&D work. 
+
+- https://github.com/CDAC-lab/UNICON
+- https://github.com/CDAC-lab/UNISOLAR

@@ -8,7 +8,7 @@ title = "La Trobe Energy AI Platform (LEAP)"
 ## La Trobe Energy AI Platform (LEAP)
 
 
-LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificial Intelligence project for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable, Generative and Causal AI to process, extract and analyse a billion data points to generate actionable insights that inform human decision-making for net zero emissions, cost-effective energy management and space utilisation.
+LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificial Intelligence project for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable, Generative and Causal AI to process, extract and analyse a billion data points to generate actionable insights that inform human decision-making for net zero emissions, cost-effective energy management and optimised space utilisation.
 
 ## Core Capabilities of LEAP:
 

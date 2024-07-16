@@ -1,7 +1,7 @@
 +++
-title = "About LEAP"
+title = "Net Zero Emissions"
 weight = 5
-menuTitle = "LEAP"
+menuTitle = "Net Zero Emissions"
 +++
 
 

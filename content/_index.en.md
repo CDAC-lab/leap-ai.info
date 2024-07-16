@@ -10,8 +10,6 @@ title = "La Trobe Energy AI Platform (LEAP)"
 
 LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificial Intelligence (AI) program for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable, Generative and Causal AI to process, extract and analyse a billion data points to generate actionable insights that inform human decision-making for net zero emissions, cost-effective energy management and optimised space utilisation. LEAP can be further described by its core technical and operational capabilities: 
 
-
-
 - **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and performance of diverse buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy and space use.
 
 - **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short to long term energy consumption forecasting, prediction of renewables generation, anomalous energy usage detection, data quality monitoring, and insights generation for human decision-making. 
@@ -55,10 +53,11 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - C4NET, Australia
 
 ## LEAP Datasets
-The following datasets are publicly accessible for energy AI R&D work. 
+The following datasets are publicly accessible: 
 
 - https://github.com/CDAC-lab/UNICON
 - https://github.com/CDAC-lab/UNISOLAR
+- https://www.kaggle.com/datasets/cdaclab/unicon
 
 ## Contact Us
 

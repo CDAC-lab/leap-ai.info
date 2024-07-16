@@ -27,18 +27,7 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University's flagship AI project 
 - AI and Automation Engine: Consists of multiple intelligent and automated functions, including baseline prediction, short-term and long-term consumption and generation forecasting, anomaly detection, tariff simulation, and bill validation.
 - Multi-Stakeholder Analytics Dashboards: Visualize energy metrics, forecasts, fluctuations, trends, and outliers that can be analyzed by various stakeholders, such as users, operators, managers, providers, and advocacy groups.
 
-## International Collaborations
 
-LEAP has enabled international research collaborations with Lulea University of Technology, Sweden, and Aalto University, Finland. These collaborations focus on spatiotemporal AI for energy market price dynamics and adaptive multi-energy virtual power plants for complex buildings.
-
-## Community Engagement
-
-LEAP is shared with the local community, including schools and community centers. It serves as a change agent, bringing together local schools and residents through public events like hackathons and seminars. Feedback and lessons learned are dispersed to the public to further emissions reduction and operational efficiency.
-
-## Publicly Available Datasets
-
-- https://github.com/CDAC-lab/UNICON
-- https://github.com/CDAC-lab/UNISOLAR
 
 # La Trobe's Net Zero Emissions Goal
 La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:

@@ -24,9 +24,27 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 
 - **Learning and Research Enabler**: LEAP serves as a living lab for students and researchers, providing a real-world environment to study and innovate in energy management. The platform also facilitates hands-on learning and research opportunities, enhancing the educational experience at La Trobe University.
 
-## Awards and Recognition
+## Awards
 - 2021 Clever Campus Innovation Award by the Australasian Tertiary Education Facilities Management Association (TEFMA) 
 - Best Paper Award at the IEEE 16th International Conference on Human System Interaction (HSI 2022): Mills, N., Rathnayaka, P., Moraliyage, H., De Silva, D. and Jennings, A., 2022, July. Cloud edge architecture leveraging artificial intelligence and analytics for microgrid energy optimisation and net zero carbon emissions. In 2022 15th International Conference on Human System Interaction (HSI) (pp. 1-7). IEEE.
+
+## LEAP Team
+- Project Sponsor: Andrew Jennings
+- Project Leader: Professor Daswin De Silva (https://scholars.latrobe.edu.au/ddesilva)
+- Principal Technical Architect: Dr Nishan Mills
+- Lead Technical Architect: Dr Harsha Moraliyage
+- AI R&D Team:
+- Sachin Kahawala
+- Gihan Gamage
+- Dilantha Haputhanthri
+- Chamod Samarajeewa
+- Vidura Sumanasena
+- Lakshitha Gunasekara
+- Amali Mathararachchi
+- Dr Prabod Rathnayaka (former tech lead)
+- Dr Thimal Kempitiya
+  
+
 
 ## LEAP Partners
 

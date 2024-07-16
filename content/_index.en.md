@@ -33,7 +33,6 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - Project Leader: Professor Daswin De Silva (https://scholars.latrobe.edu.au/ddesilva)
 - Principal Technical Architect: Dr Nishan Mills
 - Lead Technical Architect: Dr Harsha Moraliyage
-- AI R&D Team:
 - Sachin Kahawala
 - Gihan Gamage
 - Dilantha Haputhanthri
@@ -41,8 +40,8 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - Vidura Sumanasena
 - Lakshitha Gunasekara
 - Amali Mathararachchi
-- Dr Prabod Rathnayaka (former tech lead)
-- Dr Thimal Kempitiya
+- Dr Prabod Rathnayaka (former Tech Lead)
+- Dr Thimal Kempitiya (former member)
   
 
 

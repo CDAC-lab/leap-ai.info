@@ -5,7 +5,7 @@ menuTitle = "Net Zero Emissions"
 +++
 
 
-# Net Zero Emissions
+## Net Zero Emissions
 La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
 
 - **Campus Coverage**: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces.

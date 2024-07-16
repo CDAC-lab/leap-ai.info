@@ -7,20 +7,20 @@ title = "La Trobe Energy AI Platform (LEAP)"
 
 ## La Trobe Energy AI Platform (LEAP)
 
-### What is LEAP?
-LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship AI project for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable and Causal AI to process a billion data points, generating a thousand actionable insights that interface through a Generative AI chatbot for informed human decision-making in effective energy management.
 
-Key Features of LEAP:
+LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificial Intelligence project for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable, Generative and Causal AI to process, extract and analyse a billion data points to generate actionable insights that inform human decision-making for net zero emissions, cost-effective energy management and space utilisation.
 
-- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and building performance in 200 buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy use.
+Core Capabilities of LEAP:
 
-- **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short-long term energy usage forecasting, prediction of solar energy generation, Anomalous energy usa detection, and insights generation for human decision-making. 
+- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and performance of diverse buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy and space use.
 
-- **Actionable Insights**: By processing a billion data points, LEAP generates a thousand actionable insights, which are conveyed through a net zero chatbot. These insights help facility managers and decision-makers optimize building management systems (BMS) and implement energy-saving measures in real time.
+- **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short to long term energy consumption forecasting, prediction of renewables generation, anomalous energy usage detection, data quality monitoring, and insights generation for human decision-making. 
 
-- **Sustainability Goals**: LEAP supports La Trobe’s commitment to achieving net zero carbon emissions by 2029. The platform plays a crucial role in reducing the university’s carbon footprint by improving energy efficiency and resource utilization. For example, the platform aids in managing renewable energy sources like solar PV systems, which are integral to La Trobe's sustainability strategy.
+- **Actionable Insights**: LEAP provides actionable insights to the La Trobe facilities management team for space optimisation and the implementation of energy-saving measures in real time.
 
-- **Collaboration and Innovation**: Developed in collaboration with the Centre for Data Analytics and Cognition (CDAC) at La Trobe, LEAP embodies the university's innovative approach to tackling environmental challenges. The platform has been recognized for its excellence with awards such as the 2021 Clever Campus Innovation Award by TEFMA and the Best Paper Award at the IEEE Human System Interaction Conference 2022 for the Net Zero Emissions Track.
+- **Sustainability Goals**: LEAP informs La Trobe’s goal to achieving net zero carbon emissions by 2029. The platform plays a crucial role in reducing the university’s carbon footprint by improving energy efficiency and resource utilization. For example, the platform aids in managing renewable energy sources like solar PV systems, which are integral to La Trobe's sustainability strategy.
+
+- **Collaboration and Innovation**: Designed and developed by staff and students at La Trobe, LEAP embodies the university's innovative approach to tackling environmental challenges. The platform has been recognized for its excellence with awards such as the 2021 Clever Campus Innovation Award by TEFMA and the Best Paper Award at the 15th IEEE Human System Interaction Conference 2022.
 
 - **Learning and Research Enabler**: LEAP serves as a living lab for students and researchers, providing a real-world environment to study and innovate in energy management. The platform also facilitates hands-on learning and research opportunities, enhancing the educational experience at La Trobe University.
 

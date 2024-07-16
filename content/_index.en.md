@@ -35,13 +35,12 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - RMIT University, Australia
 - C4NET, Australia
 
-## Contact Us
-
-Please contact us if you would like to learn more about our innovations in Energy AI for net zero emissions and sustainability: cdac@latrobe.edu.au 
-
-
 ## LEAP Datasets
 The following datasets are publicly accessible for energy AI R&D work. 
 
 - https://github.com/CDAC-lab/UNICON
 - https://github.com/CDAC-lab/UNISOLAR
+
+## Contact Us
+
+Please contact us if you would like to learn more about our innovations in Energy AI for net zero emissions and sustainability: cdac@latrobe.edu.au 

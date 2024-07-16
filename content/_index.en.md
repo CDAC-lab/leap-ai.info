@@ -10,10 +10,12 @@ title = "La Trobe Energy AI Platform (LEAP)"
 
 LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificial Intelligence (AI) program for achieving net zero carbon emissions by 2029. LEAP harnesses the power of Predictive, Explainable, Generative and Causal AI to process, extract and analyse a billion data points to generate actionable insights that inform human decision-making for net zero emissions, cost-effective energy management and optimised space utilisation. LEAP can be further described by its core technical and operational capabilities: 
 
-- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and performance of diverse buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy and space use.
-
 - **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short to long term energy consumption forecasting, prediction of renewables generation, anomalous energy usage detection, data quality monitoring, and insights generation for human decision-making. 
 
+- **Data Lakehouse**: Single-version-of-truth energy data, a centralized repository of internal data streams on consumption, generation, utilization, events, and external data streams of weather, climate, tariff, and energy market metrics.
+
+- **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and performance of diverse buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy and space use.
+  
 - **Actionable Insights**: LEAP provides actionable insights to the La Trobe facilities management team for space optimisation and the implementation of energy-saving measures in real time.
 
 - **Sustainability Goals**: LEAP informs La Trobe’s goal to achieving net zero carbon emissions by 2029. The platform plays a crucial role in reducing the university’s carbon footprint by improving energy efficiency and resource utilization. For example, the platform aids in managing renewable energy sources like solar PV systems, which are integral to La Trobe's sustainability strategy.

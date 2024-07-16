@@ -47,6 +47,8 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 
 ## LEAP Partners
 
+- Virginia Commonwealth University, USA
+- Coventry University, UK
 - Lulea University of Technology, Sweden
 - Aalto University, Finland
 - RMIT University, Australia

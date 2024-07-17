@@ -12,7 +12,7 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 
 - **Artificial Intelligence**: Custom built Predictive, Explainable, Causal and Generative AI models are used for short to long term energy consumption forecasting, prediction of renewables generation, anomalous energy usage detection, data quality monitoring, and insights generation for human decision-making. 
 
-- **Data Lakehouse**: Single-version-of-truth energy data, a centralized repository of internal data streams on consumption, generation, utilization, events, and external data streams of weather, climate, tariff, and energy market metrics.
+- **Data Lakehouse**: Single-version-of-truth for energy data streams and data sources, a centralized repository of internal data streams on consumption, generation, utilization, events, and external data streams of weather, climate, tariff, and energy market metrics.
 
 - **Comprehensive Monitoring**: LEAP tracks energy consumption patterns and performance of diverse buildings across La Trobe’s five campuses. This includes real-time monitoring of lighting, heating, and cooling systems to optimize energy and space use.
   

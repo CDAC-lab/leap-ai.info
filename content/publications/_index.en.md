@@ -46,7 +46,7 @@ menuTitle = "Publications"
 
 17. **A Robust Artificial Intelligence Approach with Explainability for Measurement and Verification of Energy Efficient Infrastructure for Net Zero Carbon Emissions**. Moraliyage, H., Dahanayake, S., De Silva, D., Mills, N., Rathnayaka, P., Nguyen, S., Alahakoon, D. & Jennings, A., Sensors, 2022, 22(23), p.9503. DOI: [10.3390/s22239503](https://doi.org/10.3390/s22239503)
 
-#### 2021 and prior
+#### 2020-2021
 
 18. **Solar irradiance nowcasting for virtual power plants using multimodal long short-term memory networks**. Haputhanthri, D., De Silva, D., Sierla, S., Alahakoon, D., Nawaratne, R., Jennings, A. & Vyatkin, V., Frontiers in Energy Research, 2021, 9, p.722212. DOI: [10.3389/fenrg.2021.722212](https://doi.org/10.3389/fenrg.2021.722212)
 

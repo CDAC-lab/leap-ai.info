@@ -29,7 +29,6 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - Best Paper Award at the IEEE 16th International Conference on Human System Interaction (HSI 2022): Mills, N., Rathnayaka, P., Moraliyage, H., De Silva, D. and Jennings, A., 2022, July. Cloud edge architecture leveraging artificial intelligence and analytics for microgrid energy optimisation and net zero carbon emissions. In 2022 15th International Conference on Human System Interaction (HSI) (pp. 1-7). IEEE.
 
 ## LEAP Team
-- Project Sponsor: Andrew Jennings
 - Project Leader: Professor Daswin De Silva (https://scholars.latrobe.edu.au/ddesilva)
 - Principal Technical Architect: Dr Nishan Mills
 - Lead Technical Architect: Dr Harsha Moraliyage
@@ -43,7 +42,8 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
 - Dr Prabod Rathnayaka (former Tech Lead)
 - Dr Thimal Kempitiya (former member)
   
-
+## Project Sponsor
+- Andrew Jennings
 
 ## LEAP Partners
 

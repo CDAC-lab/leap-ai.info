@@ -44,6 +44,7 @@ LEAP (La Trobe Energy AI Platform) is La Trobe University’s flagship Artificia
   
 ## Project Sponsor
 - Andrew Jennings
+- La Trobe Net Zero Program
 
 ## LEAP Partners
 

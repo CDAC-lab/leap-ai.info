@@ -8,17 +8,17 @@ menuTitle = "Publications"
 
 #### 2025
 
-24. **Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future**. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
+24\. **Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future**. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
 
 #### 2024
 
-23. **Hypervector Approximation of Complex Manifolds for Artificial Intelligence Digital Twins in Smart Cities**. Kahawala, S., Madhusanka, N., De Silva, D., Osipov, E., Mills, N., Manic, M. and Jennings, A., 2024. Smart Cities, 7(6), pp.3371-3387.
+23\. **Hypervector Approximation of Complex Manifolds for Artificial Intelligence Digital Twins in Smart Cities**. Kahawala, S., Madhusanka, N., De Silva, D., Osipov, E., Mills, N., Manic, M. and Jennings, A., 2024. Smart Cities, 7(6), pp.3371-3387.
 
-22. **Explainable Artificial Intelligence for Crowd Forecasting Using Global Ensemble Echo State Networks**. Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Rathnayaka, P. and Jennings, A., 2024. IEEE Open Journal of the Industrial Electronics Society. Publisher: IEEE DOI:[10.1109/OJIES.2024.3397789](https://doi.org/10.1109/OJIES.2024.3397789)
+22\. **Explainable Artificial Intelligence for Crowd Forecasting Using Global Ensemble Echo State Networks**. Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Rathnayaka, P. and Jennings, A., 2024. IEEE Open Journal of the Industrial Electronics Society. Publisher: IEEE DOI:[10.1109/OJIES.2024.3397789](https://doi.org/10.1109/OJIES.2024.3397789)
 
-21. **A Lifecycle Approach for Artificial Intelligence Ethics in Energy Systems**. El-Haber, N., Burnett, D., Halford, A., Stamp, K., De Silva, D., Manic, M., & Jennings, A., Energies, 2024, 18, p.1935. DOI: [](https://doi.org/)
+21\. **A Lifecycle Approach for Artificial Intelligence Ethics in Energy Systems**. El-Haber, N., Burnett, D., Halford, A., Stamp, K., De Silva, D., Manic, M., & Jennings, A., Energies, 2024, 18, p.1935. DOI: [](https://doi.org/)
 
-20. **Optimizing Generative AI Chatbots for Net-Zero Emissions Energy Internet-of-Things Infrastructure**. Matharaarachchi, A., Mendis, W., Randunu, K., De Silva, D., Gamage, G., Moraliyage, H., Mills, N. & Jennings, A., Energies, 2024, 17, p.1935. DOI: [10.3390/en17081935](https://doi.org/10.3390/en17081935)
+20\. **Optimizing Generative AI Chatbots for Net-Zero Emissions Energy Internet-of-Things Infrastructure**. Matharaarachchi, A., Mendis, W., Randunu, K., De Silva, D., Gamage, G., Moraliyage, H., Mills, N. & Jennings, A., Energies, 2024, 17, p.1935. DOI: [10.3390/en17081935](https://doi.org/10.3390/en17081935)
 
 19. **Multi-Agent RAG Chatbot Architecture for Decision Support in Net-Zero Emission Energy Systems**. Gamage, G., Mills, N., De Silva, D., Manic, M., Moraliyage, H., Jennings, A. & Alahakoon, D., 2024 IEEE International Conference on Industrial Technology (ICIT), Bristol, United Kingdom, 2024, pp. 1-6. DOI: [10.1109/ICIT58233.2024.10540920](https://doi.org/10.1109/ICIT58233.2024.10540920), 
 

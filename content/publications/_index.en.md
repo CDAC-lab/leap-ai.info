@@ -7,9 +7,7 @@ menuTitle = "Publications"
 ### Research Publications Originating from LEAP
 
 #### 2025
-<ol start="24" reversed>
-  <li><strong>Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future</strong>. De Silva …</li>
-</ol>
+
 24\. **Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future**. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
 
 #### 2024

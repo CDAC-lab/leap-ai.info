@@ -1,27 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Trobe Energy Analytics Platform (LEAP) on LEAP - La Trobe Energy Analytics Platform</title>
-    <link>https://leap-ai.info/index.html</link>
-    <description>Recent content in La Trobe Energy Analytics Platform (LEAP) on LEAP - La Trobe Energy Analytics Platform</description>
+    <title>La Trobe Energy AI Platform (LEAP) on LEAP - La Trobe Energy Analytics Platform</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Recent content in La Trobe Energy AI Platform (LEAP) on LEAP - La Trobe Energy Analytics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://leap-ai.info/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About LEAP</title>
-      <link>https://leap-ai.info/leap/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leap-ai.info/leap/index.html</guid>
-      <description>About LEAP LEAP (La Trobe Energy AI Platform) is La Trobe University&amp;rsquo;s flagship AI project for achieving net zero carbon emissions by 2029. The project is designed, developed, and deployed as a “Living AI Lab” by the Centre for Data Analytics and Cognition (CDAC), La Trobe’s leading research centre for fundamental and applied AI research.
-Awards and Recognition 2021 Clever Campus Innovation Award: Recognized by the Tertiary Education Facilities Management Association (TEFMA) for its innovative approach to campus energy management.</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LEAP Research Publications</title>
-      <link>https://leap-ai.info/publications/index.html</link>
+      <link>http://localhost:1313/publications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leap-ai.info/publications/index.html</guid>
-      <description>Research Publications Originating from LEAP 2024 Explainable Artificial Intelligence for Crowd Forecasting Using Global Ensemble Echo State Networks. Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Rathnayaka, P. and Jennings, A., 2024. IEEE Open Journal of the Industrial Electronics Society. Publisher: IEEE.
-Optimizing Generative AI Chatbots for Net-Zero Emissions Energy Internet-of-Things Infrastructure. Matharaarachchi, A., Mendis, W., Randunu, K., De Silva, D., Gamage, G., Moraliyage, H., Mills, N. and Jennings, A.</description>
+      <guid>http://localhost:1313/publications/index.html</guid>
+      <description>&lt;h3 id=&#34;research-publications-originating-from-leap&#34;&gt;Research Publications Originating from LEAP&lt;/h3&gt;
+&lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
+&lt;p&gt;24. &lt;strong&gt;Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future&lt;/strong&gt;. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.&lt;/p&gt;
+&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;23. &lt;strong&gt;Hypervector Approximation of Complex Manifolds for Artificial Intelligence Digital Twins in Smart Cities&lt;/strong&gt;. Kahawala, S., Madhusanka, N., De Silva, D., Osipov, E., Mills, N., Manic, M. and Jennings, A., 2024. Smart Cities, 7(6), pp.3371-3387.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Net Zero Emissions</title>
+      <link>http://localhost:1313/leap/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/leap/index.html</guid>
+      <description>&lt;h2 id=&#34;net-zero-emissions&#34;&gt;Net Zero Emissions&lt;/h2&gt;
+&lt;p&gt;La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Campus Coverage&lt;/strong&gt;: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large Scale Projects&lt;/strong&gt;: 20 significant projects across the university focusing on:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Renewable Energy Expansion&lt;/strong&gt;: Installation of Solar PV systems with 2.5Mw capacity in Bundoora and 1.1Mw in regional campuses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electrical Infrastructure Overhaul&lt;/strong&gt;: Including extensive LED lighting upgrades.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operational Optimization&lt;/strong&gt;: Enhancing Building Management Systems (BMS) for better energy efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building Electrification&lt;/strong&gt;: Transitioning buildings to be fully electric.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Waste Reduction&lt;/strong&gt;: Implementing organic recycling programs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green Star Buildings&lt;/strong&gt;: Including the Sports Stadium, which boasts a 6 Green Star rating.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La Trobe University has already achieved significant milestones on its journey to net zero, including achieving net zero emissions status for its regional campuses by 2022. The university has installed around 7,500 solar panels at its Bundoora campus, generating 2.5 MW of renewable energy. Additionally, a new solar farm at Bundoora, set to be the largest urban solar farm in Victoria, will further boost the university&amp;rsquo;s renewable energy capacity​​.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooee: Conversational Intelligence for LEAP</title>
+      <link>http://localhost:1313/cooee/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cooee/index.html</guid>
+      <description>&lt;h2 id=&#34;what-is-cooee&#34;&gt;What is Cooee?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Cooee&lt;/strong&gt; is LEAP&amp;rsquo;s cognitive conversational agent — an intelligence layer that understands energy data, user context, and intent.&lt;/p&gt;
+&lt;p&gt;It allows users to ask natural questions like&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Why did Building MH1 spike by 7.5% last week?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;and receive analytical, context-rich explanations grounded in LEAP&amp;rsquo;s live datasets.&lt;/p&gt;
+&lt;p&gt;Energy analytics dashboards are powerful, but interpreting data still requires time, expertise, and switching between multiple tools. &lt;strong&gt;Cooee&lt;/strong&gt; bridges this gap by transforming dashboards into intelligent conversational experiences — combining human reasoning with automated analysis.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

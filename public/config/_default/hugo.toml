@@ -41,6 +41,14 @@ title = "La Trobe Energy Analytics Platform"
   section = ["HTML", "RSS", "Sitemap"]
   page = ["HTML", "RSS", "Sitemap"]
 
+[outputFormats]
+  [outputFormats.SEARCH]
+    baseName = "index.search"
+    mediaType = "application/json"
+  [outputFormats.SEARCHPAGE]
+    baseName = "search"
+    mediaType = "text/html"
+
 [markup]
   [markup.highlight]
     # line numbers in a table layout will shift if code is wrapping, so better

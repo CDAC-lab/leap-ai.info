@@ -23,5 +23,16 @@
       <description>Net Zero Emissions La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
 Campus Coverage: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces. Large Scale Projects: 20 significant projects across the university focusing on: Renewable Energy Expansion: Installation of Solar PV systems with 2.5Mw capacity in Bundoora and 1.1Mw in regional campuses. Electrical Infrastructure Overhaul: Including extensive LED lighting upgrades.</description>
     </item>
+    <item>
+      <title>Cooee: Conversational Intelligence for LEAP</title>
+      <link>https://leap-ai.info/cooee/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/cooee/index.html</guid>
+      <description>What is Cooee? Cooee is LEAP&amp;rsquo;s cognitive conversational agent — an intelligence layer that understands energy data, user context, and intent.
+It allows users to ask natural questions like
+&amp;ldquo;Why did Building MH1 spike by 7.5% last week?&amp;rdquo;
+and receive analytical, context-rich explanations grounded in LEAP&amp;rsquo;s live datasets.
+Energy analytics dashboards are powerful, but interpreting data still requires time, expertise, and switching between multiple tools. Cooee bridges this gap by transforming dashboards into intelligent conversational experiences — combining human reasoning with automated analysis.</description>
+    </item>
   </channel>
 </rss>

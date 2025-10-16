@@ -52,7 +52,7 @@ Cooee provides contextual, data-driven responses that combine real-time analytic
 
 
 
-{{< slideshow-cooee path="images/cooee" >}}
+{{< slideshow path="images/cooee" >}}
 
 ---
 

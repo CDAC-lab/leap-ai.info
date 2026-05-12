@@ -9,16 +9,17 @@
     <meta name="author" content="Lakshitha Gunasekara">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://leap-ai.info/images/banner0.jpg">
-    <meta name="twitter:title" content="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <meta name="twitter:title" content="Architecture :: LEAP - La Trobe Energy Analytics Platform">
     <meta name="twitter:description" content="LEAP - La Trobe Energy Analytics Platform">
-    <meta property="og:title" content="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <meta property="og:title" content="Architecture :: LEAP - La Trobe Energy Analytics Platform">
     <meta property="og:description" content="LEAP - La Trobe Energy Analytics Platform">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://leap-ai.info/tags/index.html">
+    <meta property="og:url" content="https://leap-ai.info/architecture/index.html">
     <meta property="og:image" content="https://leap-ai.info/images/banner0.jpg">
     <meta property="og:site_name" content="LEAP - La Trobe Energy Analytics Platform">
-    <title>Tags :: LEAP - La Trobe Energy Analytics Platform</title>
-    <link href="../tags/index.xml" rel="alternate" type="application/rss+xml" title="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <title>Architecture :: LEAP - La Trobe Energy Analytics Platform</title>
+    <link href="../architecture/index.xml" rel="alternate" type="application/rss+xml" title="Architecture :: LEAP - La Trobe Energy Analytics Platform">
+    <link href="../architecture/sitemap.xml" rel="sitemap" type="application/xml" title="Architecture :: LEAP - La Trobe Energy Analytics Platform">
     <link href="../images/favicon.png?1778588339" rel="icon" type="image/png">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
     <link href="../css/fontawesome-all.min.css?1778588339" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../css/fontawesome-all.min.css?1778588339" rel="stylesheet"></noscript>
@@ -56,7 +57,7 @@
       window.T_N_results_found = `{1} results found for "{0}"`;
     </script>
   </head>
-  <body class="mobile-support html disableInlineCopyToClipboard" data-url="../tags/index.html">
+  <body class="mobile-support html disableInlineCopyToClipboard" data-url="../architecture/index.html">
         <div id="R-body" class="default-animation">
           <div id="R-body-overlay"></div>
           <nav id="R-topbar">
@@ -66,7 +67,7 @@
             </div>
               </div>
               <span class="topbar-breadcrumbs highlightable">
-                Tags
+                Architecture
               </span>   
 
 
@@ -172,14 +173,28 @@
           <div id="R-main-overlay"></div>
           <main id="R-body-inner" class="highlightable default" tabindex="-1">
             <div class="flex-block-wrapper">
-          <article>
+          <article class="default">
             <header class="headline">
             </header>
-<h1 id="tags">Tags</h1>
+<h1></h1>
+
+<h2 id="platform-architecture">Platform Architecture</h2>
+<p>LEAP was built entirely in-house on Microsoft Azure and is fully cloud native. Each domain within the platform is implemented as an independent microservice, deployed in Docker containers and accessed through a hardened security layer.</p>
+<p><a href="#R-image-84caae8ce6ee4c5f0d8e2df13f281409" class="lightbox-link"><img src="../images/architecture/microservice-security.jpg" alt="LEAP microservice security architecture showing users accessing the React LEAP app, which authenticates via Azure AD using OpenID/OAuth and receives an Access Token, then routes requests through an API Gateway over a Secured VPN to containerised microservices (Campus MS, Building MS, Meter MS, Optimum MS built with Flask and Docker) backed by Azure SQL DB" class="figure-image bg-white border lightbox noshadow" style="height: auto; width: auto;" loading="lazy"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-84caae8ce6ee4c5f0d8e2df13f281409"><img src="../images/architecture/microservice-security.jpg" alt="LEAP microservice security architecture showing users accessing the React LEAP app, which authenticates via Azure AD using OpenID/OAuth and receives an Access Token, then routes requests through an API Gateway over a Secured VPN to containerised microservices (Campus MS, Building MS, Meter MS, Optimum MS built with Flask and Docker) backed by Azure SQL DB" class="lightbox-image bg-white border lightbox noshadow" loading="lazy"></a></p>
+<p>Users access the React.js LEAP application, which authenticates via <strong>Azure Active Directory</strong> using OpenID/OAuth and receives a scoped Access Token. All API calls are routed through an <strong>API Gateway</strong> over a Secured VPN to the microservice layer — which includes Campus, Building, Meter, and Optimum microservices, each built with Flask and deployed in Docker containers, backed by a shared Azure SQL database.</p>
+<p>This architecture ensures no microservice is directly exposed to the internet, every request is authenticated and authorised, and each domain can be independently scaled, updated and monitored without affecting the rest of the platform.</p>
 
             <footer class="footline">
+
+
+
+
+
+
             </footer>
-          </article>        </div>
+          </article>
+        </div>
       </main>
     </div>
     <aside id="R-sidebar" class="default-animation">
@@ -276,7 +291,7 @@
       
           
           
-          <li data-nav-id="/architecture/index.html" class=""><a class="padding" href="../architecture/index.html">Architecture</a></li>
+          <li data-nav-id="/architecture/index.html" class="active"><a class="padding" href="../architecture/index.html">Architecture</a></li>
       
           
           

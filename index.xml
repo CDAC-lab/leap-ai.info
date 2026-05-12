@@ -35,6 +35,14 @@ and receive analytical, context-rich explanations grounded in LEAP&amp;rsquo;s l
 Energy analytics dashboards are powerful, but interpreting data still requires time, expertise, and switching between multiple tools. Cooee bridges this gap by transforming dashboards into intelligent conversational experiences — combining human reasoning with automated analysis.</description>
     </item>
     <item>
+      <title>Architecture</title>
+      <link>https://leap-ai.info/architecture/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/architecture/index.html</guid>
+      <description>Platform Architecture LEAP was built entirely in-house on Microsoft Azure and is fully cloud native. Each domain within the platform is implemented as an independent microservice, deployed in Docker containers and accessed through a hardened security layer.
+Users access the React.js LEAP application, which authenticates via Azure Active Directory using OpenID/OAuth and receives a scoped Access Token. All API calls are routed through an API Gateway over a Secured VPN to the microservice layer — which includes Campus, Building, Meter, and Optimum microservices, each built with Flask and deployed in Docker containers, backed by a shared Azure SQL database.</description>
+    </item>
+    <item>
       <title>Use Cases</title>
       <link>https://leap-ai.info/use-cases/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

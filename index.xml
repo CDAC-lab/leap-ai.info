@@ -8,20 +8,20 @@
     <language>en</language>
     <atom:link href="https://leap-ai.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LEAP Research Publications</title>
-      <link>https://leap-ai.info/publications/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leap-ai.info/publications/index.html</guid>
-      <description>Research Publications Originating from LEAP 2025 24. Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
-2024 23. Hypervector Approximation of Complex Manifolds for Artificial Intelligence Digital Twins in Smart Cities. Kahawala, S., Madhusanka, N., De Silva, D., Osipov, E., Mills, N., Manic, M. and Jennings, A.</description>
-    </item>
-    <item>
       <title>Net Zero Emissions</title>
       <link>https://leap-ai.info/leap/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leap-ai.info/leap/index.html</guid>
       <description>Net Zero Emissions La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
 Campus Coverage: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces. Large Scale Projects: 20 significant projects across the university focusing on: Renewable Energy Expansion: Installation of Solar PV systems with 2.5Mw capacity in Bundoora and 1.1Mw in regional campuses. Electrical Infrastructure Overhaul: Including extensive LED lighting upgrades.</description>
+    </item>
+    <item>
+      <title>AI Capabilities</title>
+      <link>https://leap-ai.info/ai-capabilities/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/ai-capabilities/index.html</guid>
+      <description>AI Capabilities LEAP&amp;rsquo;s intelligence layer is composed of multiple interconnected AI and automation capabilities, each addressing a distinct challenge in sustainable energy management. Together they form a continuous loop: collect → validate → understand → predict → act → explain.
+Forecasting LEAP generates short-term to long-term energy forecasts spanning weekly to yearly horizons, covering consumption, cost, carbon emissions, and renewable generation. These forecasts move the platform from reactive monitoring to proactive planning — enabling La Trobe to anticipate demand peaks, model the impact of energy-saving initiatives, and schedule maintenance without disrupting operations.</description>
     </item>
     <item>
       <title>Cooee: Conversational Intelligence for LEAP</title>
@@ -33,6 +33,46 @@ It allows users to ask natural questions like
 &amp;ldquo;Why did Building MH1 spike by 7.5% last week?&amp;rdquo;
 and receive analytical, context-rich explanations grounded in LEAP&amp;rsquo;s live datasets.
 Energy analytics dashboards are powerful, but interpreting data still requires time, expertise, and switching between multiple tools. Cooee bridges this gap by transforming dashboards into intelligent conversational experiences — combining human reasoning with automated analysis.</description>
+    </item>
+    <item>
+      <title>Use Cases</title>
+      <link>https://leap-ai.info/use-cases/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/use-cases/index.html</guid>
+      <description>LEAP in Action The following use cases demonstrate LEAP operating on live data across La Trobe&amp;rsquo;s five campuses. Each represents a real operational scenario where AI-driven insights have directly informed decision-making toward net zero emissions.
+Campus-Wide Energy Overview LEAP provides a unified view of energy consumption, generation, saved CO₂ emissions, and cost savings across every campus — simultaneously. Facilities managers can drill from the all-campuses summary into any individual campus or building in a single click.</description>
+    </item>
+    <item>
+      <title>Solar Forecasting</title>
+      <link>https://leap-ai.info/solar-forecasting/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/solar-forecasting/index.html</guid>
+      <description>Solar Forecasting LEAP&amp;rsquo;s Solar Forecasting capability delivers high-fidelity generation predictions and real-time performance monitoring across La Trobe&amp;rsquo;s solar PV fleet.
+How It Works Solar Forecasting uses two internationally recognised irradiance baselines — NASA satellite-derived data and Typical Meteorological Year (TMY) profiles — and plots them against actual hourly generation data collected from campus meters. This gives facilities managers and researchers a clear, quantified view of how the solar fleet is performing at any point in time.</description>
+    </item>
+    <item>
+      <title>Outage Detection</title>
+      <link>https://leap-ai.info/outage-detection/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/outage-detection/index.html</guid>
+      <description>Outage Detection LEAP&amp;rsquo;s Outage Detection capability provides continuous, automated surveillance of energy infrastructure across La Trobe&amp;rsquo;s five campuses — identifying faults rapidly and delivering the actionable intelligence needed for fast response.
+Fleet Health &amp;amp; Meter Status LEAP monitors the health of every building meter and solar meter in the fleet in real time. A unified fleet health dashboard surfaces the status of each asset — flagging meters that are offline, underperforming, or reporting anomalous data — so facilities managers can prioritise their attention without manually interrogating individual systems.</description>
+    </item>
+    <item>
+      <title>Future Vision</title>
+      <link>https://leap-ai.info/future-vision/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/future-vision/index.html</guid>
+      <description>Future Vision LEAP is a platform in active evolution. As La Trobe advances toward its Net Zero 2029 goal, LEAP&amp;rsquo;s roadmap extends its intelligence into new domains — deepening its research capabilities, expanding its community reach, and opening the platform to organisations beyond the university.
+Electric Vehicle &amp;amp; Battery Research La Trobe is home to Australia&amp;rsquo;s first dedicated EV research hub, supported by a $5.2M Victorian Government investment. LEAP is positioned as the intelligence layer for this facility — integrating EV charging load data, battery storage profiles and grid interactions into the platform&amp;rsquo;s forecasting and optimisation models.</description>
+    </item>
+    <item>
+      <title>LEAP Research Publications</title>
+      <link>https://leap-ai.info/publications/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leap-ai.info/publications/index.html</guid>
+      <description>Research Publications Originating from LEAP 2025 24. Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
+2024 23. Hypervector Approximation of Complex Manifolds for Artificial Intelligence Digital Twins in Smart Cities. Kahawala, S., Madhusanka, N., De Silva, D., Osipov, E., Mills, N., Manic, M. and Jennings, A.</description>
     </item>
   </channel>
 </rss>

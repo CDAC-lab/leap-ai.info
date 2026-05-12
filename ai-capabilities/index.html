@@ -9,16 +9,17 @@
     <meta name="author" content="Lakshitha Gunasekara">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://leap-ai.info/images/banner0.jpg">
-    <meta name="twitter:title" content="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <meta name="twitter:title" content="AI Capabilities :: LEAP - La Trobe Energy Analytics Platform">
     <meta name="twitter:description" content="LEAP - La Trobe Energy Analytics Platform">
-    <meta property="og:title" content="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <meta property="og:title" content="AI Capabilities :: LEAP - La Trobe Energy Analytics Platform">
     <meta property="og:description" content="LEAP - La Trobe Energy Analytics Platform">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://leap-ai.info/tags/index.html">
+    <meta property="og:url" content="https://leap-ai.info/ai-capabilities/index.html">
     <meta property="og:image" content="https://leap-ai.info/images/banner0.jpg">
     <meta property="og:site_name" content="LEAP - La Trobe Energy Analytics Platform">
-    <title>Tags :: LEAP - La Trobe Energy Analytics Platform</title>
-    <link href="../tags/index.xml" rel="alternate" type="application/rss+xml" title="Tags :: LEAP - La Trobe Energy Analytics Platform">
+    <title>AI Capabilities :: LEAP - La Trobe Energy Analytics Platform</title>
+    <link href="../ai-capabilities/index.xml" rel="alternate" type="application/rss+xml" title="AI Capabilities :: LEAP - La Trobe Energy Analytics Platform">
+    <link href="../ai-capabilities/sitemap.xml" rel="sitemap" type="application/xml" title="AI Capabilities :: LEAP - La Trobe Energy Analytics Platform">
     <link href="../images/favicon.png?1778568044" rel="icon" type="image/png">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
     <link href="../css/fontawesome-all.min.css?1778568044" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../css/fontawesome-all.min.css?1778568044" rel="stylesheet"></noscript>
@@ -56,7 +57,7 @@
       window.T_N_results_found = `{1} results found for "{0}"`;
     </script>
   </head>
-  <body class="mobile-support html disableInlineCopyToClipboard" data-url="../tags/index.html">
+  <body class="mobile-support html disableInlineCopyToClipboard" data-url="../ai-capabilities/index.html">
         <div id="R-body" class="default-animation">
           <div id="R-body-overlay"></div>
           <nav id="R-topbar">
@@ -66,7 +67,7 @@
             </div>
               </div>
               <span class="topbar-breadcrumbs highlightable">
-                Tags
+                AI Capabilities
               </span>   
 
 
@@ -172,14 +173,51 @@
           <div id="R-main-overlay"></div>
           <main id="R-body-inner" class="highlightable default" tabindex="-1">
             <div class="flex-block-wrapper">
-          <article>
+          <article class="default">
             <header class="headline">
             </header>
-<h1 id="tags">Tags</h1>
+<h1></h1>
+
+<h2 id="ai-capabilities">AI Capabilities</h2>
+<p>LEAP&rsquo;s intelligence layer is composed of multiple interconnected AI and automation capabilities, each addressing a distinct challenge in sustainable energy management. Together they form a continuous loop: collect → validate → understand → predict → act → explain.</p>
+<hr>
+<h3 id="forecasting">Forecasting</h3>
+<p>LEAP generates short-term to long-term energy forecasts spanning weekly to yearly horizons, covering consumption, cost, carbon emissions, and renewable generation. These forecasts move the platform from reactive monitoring to proactive planning — enabling La Trobe to anticipate demand peaks, model the impact of energy-saving initiatives, and schedule maintenance without disrupting operations.</p>
+<p>Specialist forecasting models handle different time scales and use cases, including a Transformer architecture for global energy time series forecasting and dedicated solar irradiance nowcasting using CNN + LSTM networks for real-time photovoltaic generation prediction.</p>
+<hr>
+<h3 id="building-profiles--anomaly-detection">Building Profiles &amp; Anomaly Detection</h3>
+<p>Because La Trobe&rsquo;s 100+ buildings each serve different purposes — teaching, research, administration, student accommodation — each has a unique energy signature. LEAP learns these signatures at multiple granularities, building intra-day and inter-day consumption profiles that capture what &ldquo;normal&rdquo; looks like for every individual asset.</p>
+<p>When consumption deviates from the expected profile, LEAP&rsquo;s anomaly detection engine flags it automatically — distinguishing transient spikes from persistent underperformance, and isolating individual faults from system-wide issues. This pattern-based approach makes it possible to surface problems that would be invisible in aggregate dashboards.</p>
+<p>LEAP uses SHAP (SHapley Additive exPlanations) values to explain what drove each anomaly — temperature, time of day, day of week, holiday status, humidity — making the AI&rsquo;s reasoning transparent and interpretable for non-technical decision-makers.</p>
+<p><a href="#R-image-80ba3315f48cd43b1c4a24a59a0593b2" class="lightbox-link"><img src="../images/leap/ai-capabilities/shap-explainability.png" alt="SHAP value explainability chart showing the relative impact of ApparentTemperature, RelativeHumidity, Hour24, DewPointTemperature, IsWeekend and other features on energy consumption model output" class="figure-image bg-white border lightbox noshadow" style="height: auto; width: auto;" loading="lazy"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-80ba3315f48cd43b1c4a24a59a0593b2"><img src="../images/leap/ai-capabilities/shap-explainability.png" alt="SHAP value explainability chart showing the relative impact of ApparentTemperature, RelativeHumidity, Hour24, DewPointTemperature, IsWeekend and other features on energy consumption model output" class="lightbox-image bg-white border lightbox noshadow" loading="lazy"></a></p>
+<hr>
+<h3 id="digital-twins">Digital Twins</h3>
+<p>LEAP builds digital twin models of energy clusters and tracks their performance against defined KPIs. These virtual representations allow operators to simulate interventions — such as load shifting, equipment changes or tariff restructuring — before committing to them in the physical environment. The digital twin layer also underpins the platform&rsquo;s Measurement and Verification capability, providing evidence-based validation of the impact of energy efficiency initiatives.</p>
+<hr>
+<h3 id="data-quality-framework">Data Quality Framework</h3>
+<p>Reliable AI depends on reliable data. LEAP&rsquo;s data quality framework validates all incoming data feeds against defined standards and formats before they enter the all-data lakehouse. Critically, it uses AI for <strong>predictive coding</strong> during data dropouts and periods of missing or erroneous sensor readings — ensuring the lakehouse remains inclusive and complete even when individual data sources are intermittent. This is particularly important across a multi-campus estate with hundreds of meters from diverse vendors.</p>
+<hr>
+<h3 id="intelligent-reporting-bill-validation--tariff-simulation">Intelligent Reporting: Bill Validation &amp; Tariff Simulation</h3>
+<p>LEAP closes the loop between operational data and financial accountability. The platform automates bill validation — cross-referencing actual consumption data against energy invoices to identify billing errors — and runs tariff simulations to model the financial impact of switching between energy pricing structures. These capabilities translate AI insights directly into cost savings and procurement decisions.</p>
+<hr>
+<h3 id="real-time-monitoring--smart-alerting">Real-Time Monitoring &amp; Smart Alerting</h3>
+<p>Consumption is monitored continuously with active benchmarking against expected baselines. When major events or anomalies are detected, LEAP&rsquo;s triage and alerting engine generates smart notifications with dynamic reporting — surfacing the right information to the right stakeholder at the right time, without alert fatigue from false positives.</p>
+<hr>
+<h3 id="technology-platform">Technology Platform</h3>
+<p>LEAP was built entirely in-house on the <strong>Microsoft Azure</strong> platform and is fully cloud native. It uses CI/CD pipelines for rapid prototyping and deployment, and its core architecture is containerised for resilience and scalability.</p>
+<p>The all-data lakehouse creates a single-version-of-truth for all energy data — internal streams covering consumption, generation, utilisation and events, alongside external streams for weather, climate, tariff and energy market metrics. The code framework draws on the .NET and Python ecosystems, with a React.js web frontend and advanced analytics delivered through Power BI and Grafana.</p>
 
             <footer class="footline">
+
+
+
+
+
+
             </footer>
-          </article>        </div>
+          </article>
+        </div>
       </main>
     </div>
     <aside id="R-sidebar" class="default-animation">
@@ -268,7 +306,7 @@
       
           
           
-          <li data-nav-id="/ai-capabilities/index.html" class=""><a class="padding" href="../ai-capabilities/index.html">AI Capabilities</a></li>
+          <li data-nav-id="/ai-capabilities/index.html" class="active"><a class="padding" href="../ai-capabilities/index.html">AI Capabilities</a></li>
       
           
           

@@ -1,6 +1,6 @@
 +++
 title = "LEAP Research Publications"
-weight = 5
+weight = 80
 menuTitle = "Publications"
 +++
 

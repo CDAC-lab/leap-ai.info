@@ -1,6 +1,6 @@
 +++
 title = "Cooee: Conversational Intelligence for LEAP"
-weight = 10
+weight = 30
 linktitle = "Cooee"
 +++
 
@@ -17,8 +17,10 @@ Energy analytics dashboards are powerful, but interpreting data still requires t
 
 ### Key Capabilities
 - Natural language querying of energy dashboards  
-- Real-time contextual reasoning  
+- Real-time contextual reasoning with pinned metric context  
+- Automated PDF report generation on demand  
 - Adaptive memory and personalization  
+- Personal AI agent connection for hyper-personalised insights  
 - Seamless integration within the LEAP web interface
 
 ### How Cooee Works
@@ -50,36 +52,27 @@ Users can ask intuitive questions such as:
 
 Cooee provides contextual, data-driven responses that combine real-time analytics with historical insights, making sustainability data accessible to students, staff, and researchers across the university.
 
-
-
 {{< slideshow path="images/cooee" >}}
 
 ---
 
-## Sustainability Impact
+## Context Intelligence
 
-### Supporting La Trobe's Net Zero Mission
+One of COOEE's most powerful features is its ability to ground every conversation in the precise data the user is looking at. When viewing a LEAP dashboard, users can **click any metric to pin it as context** — COOEE then answers questions with full awareness of that data point, its historical baseline, and its relationship to other system metrics.
 
-Cooee directly supports La Trobe University's commitment to achieving **net zero carbon emissions by 2029** by:
+This two-step workflow — pin a metric, then ask — removes ambiguity and produces sharper, more relevant answers without requiring users to manually describe what they're looking at.
 
-- **Democratizing Data Access** — Making complex energy data understandable to all stakeholders
-- **Enabling Proactive Management** — Identifying optimization opportunities through conversational analysis
-- **Supporting Evidence-Based Decisions** — Providing contextual insights for sustainability initiatives
-- **Facilitating Learning** — Educational tool for understanding energy systems and environmental impact
+> ① Click a metric to pin context  
+> ② Ask questions with full data context
 
----
+For example, a user viewing an anomalous energy spike in a specific building can pin that reading and ask *"What's causing this?"* — COOEE responds with a contextualised explanation drawing on meter data, weather conditions, occupancy patterns, and historical comparisons.
 
-## Contact Information
+![COOEE context intelligence — dashboard with COOEE sidebar open showing suggested actions](/images/cooee/6.png)
 
-For more information about Cooee, please contact: **cdac@latrobe.edu.au**
-
-### Research Publication
-
-**Cooee: An Artificial Intelligence Chatbot for Complex Energy Environments**  
-Gamage, G., Mills, N., Rathnayaka, P., Jennings, A. & Alahakoon, D.  
-*2022 15th International Conference on Human System Interaction (HSI)*, Melbourne, Australia, 2022, pp. 1-5.  
-DOI: [10.1109/HSI55341.2022.9869464](https://doi.org/10.1109/HSI55341.2022.9869464)
+![COOEE context intelligence — user has pinned a metric and COOEE provides a contextualised explanation](/images/cooee/7.png)
 
 ---
 
-*Cooee represents La Trobe University's commitment to innovative research that addresses real-world challenges. By combining advanced AI technologies with sustainability analytics, we're creating tools that make complex environmental data accessible, understandable, and actionable for everyone.*
+## Report Automation
+
+COOEE can generate structured **PDF outage reports on demand*

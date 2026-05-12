@@ -10,13 +10,13 @@
         lede: "LEAP is La Trobe University's flagship AI program for net-zero carbon emissions. It harnesses Predictive, Explainable, Generative and Causal AI to turn a billion data points from 200 sources into the decisions a facilities team makes every morning.",
       },
       capabilities: [
-        { tag:"01", kind:"Predictive",   title:"Forecast", body:"Short-, medium- and long-term forecasting of building load, renewables generation and weather-coupled demand — tuned per building's 'micro-seasons'.", example:"Forecast horizon 15 min → 12 months" },
+        { tag:"01", kind:"Predictive",   title:"Forecast", body:"Short-, medium- and long-term forecasting of building load, renewables generation and weather-coupled demand — tuned per building's 'micro-seasons'.", example:"Long Horizon Forecasting 12 months → Nearcasting next minutes" },
         { tag:"02", kind:"Explainable",  title:"Explain",  body:"Every alert and prediction is delivered with a chain of evidence a facilities manager can act on — not a black box.", example:"Anomaly attribution + drivers per asset" },
         { tag:"03", kind:"Generative",   title:"Converse", body:"An AI assistant lets any staff member ask the data plain-English questions: how is the campus tracking, what's drifting, what's possible.", example:"Plain-English Q&A across the data lake" },
         { tag:"04", kind:"Causal",       title:"Reason",   body:"Causal models separate what changed from what caused the change — so investment in chillers, glazing or controls can be justified before it's spent.", example:"Counterfactuals on retrofit decisions" },
       ],
       pipeline: [
-        { step:"01", title:"Sense",  body:"Meters, sub-meters, BMS, solar PV, BoM and satellite irradiance — every 15 minutes." },
+        { step:"01", title:"Sense",  body:"Streaming data across multiple sources." },
         { step:"02", title:"Lake",   body:"200 disparate sources unified into a governed, queryable Azure Data Lake." },
         { step:"03", title:"Reason", body:"Predictive · Explainable · Generative · Causal AI runs continuously over the lake." },
         { step:"04", title:"Act",    body:"Actionable insights surface to facilities, finance and academia — every weekday morning." },
@@ -32,7 +32,7 @@
       awards: [
         { year:"2022", title:"Best Paper Award",          venue:"IEEE 15th Conference on Human System Interaction" },
         { year:"2021", title:"Clever Campus Innovation",  venue:"Tertiary Education Facilities Management Assoc." },
-        { year:"2024", title:"AI-First Strategy partner", venue:"Microsoft × La Trobe × CyberCX" },
+        { year:"2024", title:"AI-First Strategy partner", venue:"Microsoft × La Trobe" },
       ],
     };
 
@@ -344,7 +344,7 @@
                 every morning.
               </h2>
             </div>
-            <Kicker style={{ opacity:.55, justifySelf:"end" }}>Refresh interval · 15 minutes</Kicker>
+            <Kicker style={{ opacity:.55, justifySelf:"end" }}>Live feeds</Kicker>
           </div>
           <div className="col-4" style={{
             display:"grid", gridTemplateColumns:"repeat(4, 1fr)", gap:0,

@@ -4,22 +4,25 @@
     <loc>http://localhost:1313/leap/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/ai-capabilities/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cooee/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/architecture/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/use-cases/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/solar-forecasting/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/outage-detection/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/ai-capabilities/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/use-cases/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/future-vision/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cooee/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/publications/index.html</loc>

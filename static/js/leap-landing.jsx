@@ -34,6 +34,17 @@
         { year:"2021", title:"Clever Campus Innovation",  venue:"Tertiary Education Facilities Management Assoc." },
         { year:"2024", title:"AI-First Strategy partner", venue:"Microsoft × La Trobe" },
       ],
+      sections: [
+        { num:"01", label:"Net Zero Emissions", href:"/leap/",              blurb:"La Trobe's 2029 net-zero program — strategy, scope and progress." },
+        { num:"02", label:"AI Capabilities",    href:"/ai-capabilities/",   blurb:"Predictive, Explainable, Generative and Causal AI inside LEAP." },
+        { num:"03", label:"Cooee",              href:"/cooee/",             blurb:"Conversational intelligence — ask the data in plain English." },
+        { num:"04", label:"Architecture",       href:"/architecture/",      blurb:"Data lake, ingest, governance and the platform's moving parts." },
+        { num:"05", label:"Use Cases",          href:"/use-cases/",         blurb:"What LEAP does for facilities, finance, and academia each week." },
+        { num:"06", label:"Solar Forecasting",  href:"/solar-forecasting/", blurb:"Generation forecasting across 3.6 MW of campus PV." },
+        { num:"07", label:"Outage Detection",   href:"/outage-detection/",  blurb:"Fleet health monitoring with anomaly classification." },
+        { num:"08", label:"Future Vision",      href:"/future-vision/",     blurb:"Where LEAP is heading next — research, partnerships, scale." },
+        { num:"09", label:"Publications",       href:"/publications/",      blurb:"Peer-reviewed papers, datasets, and open-source releases." },
+      ],
     };
 
     function Kicker({ children, color="var(--ink)", style }) {
@@ -127,13 +138,14 @@
             <a href="#methods"  style={navLink}>Methods</a>
             <a href="#works"    style={navLink}>Living Lab</a>
             <a href="#impact"   style={navLink}>Impact</a>
+            <a href="#explore"  style={navLink}>Explore</a>
             <a href="#awards"   style={navLink}>Awards</a>
           </nav>
           <button style={{
             fontFamily: FONT_DISPLAY, fontSize: 13, fontWeight: 500,
             padding:"10px 16px", borderRadius: 999,
             background:"var(--ink)", color:"var(--bg)", border:"none", cursor:"pointer",
-          }} onClick={()=>window.location.href='/cooee/'}>Talk to LEAP →</button>
+          }} onClick={()=>navigateWithFade('/cooee/')}>Talk to LEAP →</button>
         </div>
       );
     }
@@ -196,14 +208,14 @@
                 <button style={{ padding:"14px 22px", border:"none", cursor:"pointer", borderRadius:999,
                                  background:"var(--ink)", color:"var(--bg)",
                                  fontFamily: FONT_DISPLAY, fontWeight:500, fontSize:14 }}
-                                 onClick={()=>window.location.href='/use-cases/'}>
+                                 onClick={()=>navigateWithFade('/use-cases/')}>
                   See LEAP in action →
                 </button>
                 <button style={{ padding:"14px 22px", borderRadius:999, cursor:"pointer",
                                  background:"transparent", color:"var(--ink)",
                                  border:"1px solid var(--hair-strong)",
                                  fontFamily: FONT_DISPLAY, fontWeight:500, fontSize:14 }}
-                                 onClick={()=>window.location.href='/ai-capabilities/'}>
+                                 onClick={()=>navigateWithFade('/ai-capabilities/')}>
                   Read the methodology
                 </button>
               </div>
@@ -501,18 +513,125 @@
       );
     }
 
-    function App() {
+    function navigateWithFade(href) {
+      // Reduced motion: skip the animation.
+      if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        window.location.href = href;
+        return;
+      }
+      const veil = document.getElementById("lp-route-veil");
+      if (veil) veil.classList.add("active");
+      document.body.classList.add("lp-leaving");
+      window.setTimeout(() => { window.location.href = href; }, 280);
+    }
+
+    function RouteVeil() {
       return (
-        <div className="lp-shell">
-          <TopBar />
-          <Nav />
-          <Hero />
-          <Capabilities />
-          <Pipeline />
-          <Metrics />
-          <Awards />
-          <Footer />
+        <div id="lp-route-veil" className="lp-route-veil" aria-hidden="true">
+          <div className="lp-route-veil-mark">
+            <span className="dot" />
+            <span>Loading section</span>
+          </div>
         </div>
+      );
+    }
+
+    function ExploreLEAP() {
+      return (
+        <section id="explore" className="pad-32" style={{ padding:"96px 32px 64px", background:"color-mix(in oklab, var(--accent) 3%, var(--bg))" }}>
+          <div className="col-2" style={{ display:"grid", gridTemplateColumns:"1fr 2fr", gap:48, alignItems:"end", marginBottom:48 }}>
+            <Kicker>§ 06 · Explore</Kicker>
+            <h2 style={{ margin:0, fontFamily:FONT_DISPLAY, fontWeight:500,
+                         fontSize:"clamp(36px, 4.2vw, 56px)", lineHeight:1.02, letterSpacing:"-0.03em" }}>
+              Every part of LEAP,{" "}
+              <span style={{ fontFamily:FONT_SERIF, fontStyle:"italic", color:"var(--accent)", fontWeight:400 }}>
+                one click away.
+              </span>
+            </h2>
+          </div>
+          <div className="explore-grid" style={{
+            display:"grid", gridTemplateColumns:"repeat(3, 1fr)", gap:0,
+            border:"1px solid var(--hair)", background:"var(--bg)",
+          }}>
+            {CONTENT.sections.map((s, i) => {
+              const col = i % 3;
+              const row = Math.floor(i / 3);
+              const totalRows = Math.ceil(CONTENT.sections.length / 3);
+              return (
+                <a key={i} href={s.href} style={{
+                  padding:"28px 26px", display:"flex", flexDirection:"column", gap:12, minHeight: 200,
+                  borderRight: col < 2 ? "1px solid var(--hair)" : "none",
+                  borderBottom: row < totalRows - 1 ? "1px solid var(--hair)" : "none",
+                  textDecoration:"none", color:"var(--ink)", background:"var(--bg)",
+                  transition:"background .15s ease",
+                }}
+                onMouseEnter={(e)=>{ e.currentTarget.style.background = "color-mix(in oklab, var(--accent) 6%, var(--bg))"; }}
+                onMouseLeave={(e)=>{ e.currentTarget.style.background = "var(--bg)"; }}
+                >
+                  <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center" }}>
+                    <Kicker style={{ color:"var(--accent)", opacity:1 }}>{s.num}</Kicker>
+                    <span style={{ fontFamily:FONT_MONO, color:"var(--ink)", opacity:.45 }}>→</span>
+                  </div>
+                  <h3 style={{ margin:0, fontFamily:FONT_DISPLAY, fontWeight:500, fontSize:24, lineHeight:1.1, letterSpacing:"-0.02em" }}>
+                    {s.label}
+                  </h3>
+                  <p style={{ margin:"auto 0 0", fontFamily:FONT_DISPLAY, fontSize:13.5, lineHeight:1.55, opacity:.72 }}>
+                    {s.blurb}
+                  </p>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      );
+    }
+
+    function App() {
+      // Intercept any in-site link click (anything not starting with # or http)
+      // and route it through the fade. Runs once on mount.
+      React.useEffect(() => {
+        const onClick = (e) => {
+          if (e.defaultPrevented) return;
+          if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+          const a = e.target.closest && e.target.closest("a");
+          if (!a) return;
+          const href = a.getAttribute("href") || "";
+          if (!href) return;
+          if (href.startsWith("#")) return;            // in-page anchor
+          if (a.target === "_blank") return;            // new tab
+          if (/^https?:\/\//i.test(href) && !href.includes(window.location.host)) return; // external
+          e.preventDefault();
+          navigateWithFade(href);
+        };
+        document.addEventListener("click", onClick);
+        // Restore visibility if the user navigates back via history.
+        const onPageShow = () => {
+          document.body.classList.remove("lp-leaving");
+          const veil = document.getElementById("lp-route-veil");
+          if (veil) veil.classList.remove("active");
+        };
+        window.addEventListener("pageshow", onPageShow);
+        return () => {
+          document.removeEventListener("click", onClick);
+          window.removeEventListener("pageshow", onPageShow);
+        };
+      }, []);
+
+      return (
+        <React.Fragment>
+          <RouteVeil />
+          <div className="lp-shell">
+            <TopBar />
+            <Nav />
+            <Hero />
+            <Capabilities />
+            <Pipeline />
+            <Metrics />
+            <ExploreLEAP />
+            <Awards />
+            <Footer />
+          </div>
+        </React.Fragment>
       );
     }
 

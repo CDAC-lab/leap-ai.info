@@ -7,7 +7,13 @@ menuTitle = "Publications"
 ### Research Publications Originating from LEAP
 
 #### 2026
-27\. **Multi-agent Reinforcement Learning with Clustering and Forecasting for Optimized Energy Sharing in Microgrids** De Silva, D., Kempitiya, T., Madhusanka, N., Rathnayaka, P., Mills, N., Jennings, A., & Manic, M. (2026). Journal of Computational and Cognitive Engineering, 5(2), 187-201.
+30\. **Multi-agent Reinforcement Learning with Clustering and Forecasting for Optimized Energy Sharing in Microgrids** De Silva, D., Kempitiya, T., Madhusanka, N., Rathnayaka, P., Mills, N., Jennings, A., & Manic, M. (2026). Journal of Computational and Cognitive Engineering, 5(2), 187-201.
+
+29\. **Solar power forecasting with sparse deep learning for fast frequency response ancillary services.**. Haputhanthri, D., De Silva, D., Kaynak, O., Mills, N., Kahawala, S., Moraliyage, H., & Jennings, A. (2026). International Journal of Electrical Power & Energy Systems, 174, 111552.
+
+28\. **Blockchain-Based Provenance for Artificial Intelligence Lifecycle Traceability**. Gunasekara, L., De Silva, D., Mills, N., Moraliyage, H., & Jennings, A. (2026, March).  In 2026 IEEE International Conference on Industrial Technology (ICIT) (pp. 1-6). IEEE.
+
+27\. **Parametrization of sparse distributed representations for vector data classification. Neurocomputing**. Haputhanthri, D., De Silva, D., Osipov, E., Rachkovskij, D., & Gayler, R. W. (2026). , 133168.
 
 #### 2025
 26\. **Generative AI Agents for Hyper Predictive Maintenance of Solar Energy Systems**. Haputhanthri, D., Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Moraliyage, H., & Jennings, A. (2025, October). In IECON 2025–51st Annual Conference of the IEEE Industrial Electronics Society (pp. 1-6). IEEE.

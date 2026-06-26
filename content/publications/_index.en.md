@@ -6,7 +6,13 @@ menuTitle = "Publications"
 
 ### Research Publications Originating from LEAP
 
+#### 2026
+27\. **Multi-agent Reinforcement Learning with Clustering and Forecasting for Optimized Energy Sharing in Microgrids** De Silva, D., Kempitiya, T., Madhusanka, N., Rathnayaka, P., Mills, N., Jennings, A., & Manic, M. (2026). Journal of Computational and Cognitive Engineering, 5(2), 187-201.
+
 #### 2025
+26\. **Generative AI Agents for Hyper Predictive Maintenance of Solar Energy Systems**. Haputhanthri, D., Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Moraliyage, H., & Jennings, A. (2025, October). In IECON 2025–51st Annual Conference of the IEEE Industrial Electronics Society (pp. 1-6). IEEE.
+
+25\. **Generative AI Agents for Hyper Predictive Maintenance of Solar Energy Systems**. Haputhanthri, D., Samarajeewa, C., De Silva, D., Manic, M., Mills, N., Moraliyage, H., & Jennings, A. (2025).  In IECON 2025–51st Annual Conference of the IEEE Industrial Electronics Society (pp. 1-6). IEEE.
 
 24\. **Responsible Artificial Intelligence Hyper-Automation with Generative AI Agents for Sustainable Cities of the Future**. De Silva, D., Mills, N., Moraliyage, H., Rathnayaka, P., Wishart, S. and Jennings, A., 2025. Smart Cities, 8(1), p.34.
 

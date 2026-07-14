@@ -592,7 +592,8 @@ section.block{padding:var(--space-24) 0}
 .cap .tag{font-size:var(--text-xs);font-weight:var(--fw-body-semibold);letter-spacing:var(--ls-wider);text-transform:uppercase;color:var(--color-red)}
 .cap p{font-size:var(--text-sm);line-height:var(--lh-relaxed);color:var(--color-text-secondary)}
 .cap .more{margin-top:auto;font-size:var(--text-sm);font-weight:var(--fw-body-semibold);color:var(--color-red)}
-.cap .more:hover{text-decoration:none;opacity:.75}
+a.cap{text-decoration:none}
+a.cap:hover{text-decoration:none;opacity:1}
  
 .works{background:var(--color-grey-bg)}
 .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:var(--space-4)}
@@ -601,6 +602,9 @@ section.block{padding:var(--space-24) 0}
 .step h3{font-size:var(--text-lg);margin-bottom:var(--space-3)}
 .step p{font-size:var(--text-sm);line-height:var(--lh-relaxed);color:var(--color-text-secondary)}
 .step .arrow{display:none}
+a.step{display:block;text-decoration:none;transition:box-shadow var(--transition-fast)}
+a.step:hover{box-shadow:var(--shadow-md);text-decoration:none;opacity:1}
+.step .more{display:block;margin-top:var(--space-4);font-size:var(--text-sm);font-weight:var(--fw-body-semibold);color:var(--color-red)}
  
 .impact-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--space-4)}
 .impact-grid .scard.dark{background:var(--color-black);border-top-color:var(--color-black)}
@@ -725,34 +729,34 @@ nav.main{display:none}
       <p>Every capability is built in-house by the Centre for Data Analytics and Cognition, and tuned to the rhythms of a university campus — semesters, seasons and everything in between.</p>
     </div>
     <div class="caps">
-      <div class="cap">
+      <a class="cap" href="./solar-forecasting/">
         <img src="./images/home/icon-predictive.png" alt="">
         <span class="tag">Predictive AI</span>
         <h3>Forecast</h3>
         <p>Anticipates energy demand and renewable generation for every building — from the next 15 minutes to the next 12 months.</p>
-        <a class="more" href="./solar-forecasting/">Solar forecasting →</a>
-      </div>
-      <div class="cap">
+        <span class="more">Solar forecasting →</span>
+      </a>
+      <a class="cap" href="./outage-detection/">
         <img src="./images/home/icon-explainable.png" alt="">
         <span class="tag">Explainable AI</span>
         <h3>Explain</h3>
         <p>Delivers every alert with the evidence behind it, so facilities teams can see why — and act with confidence.</p>
-        <a class="more" href="./outage-detection/">Outage detection →</a>
-      </div>
-      <div class="cap">
+        <span class="more">Outage detection →</span>
+      </a>
+      <a class="cap" href="./cooee/">
         <img src="./images/home/icon-generative.png" alt="">
         <span class="tag">Generative AI</span>
         <h3>Converse</h3>
         <p>Lets any staff member ask questions in plain English: how is the campus tracking, what changed, what's possible.</p>
-        <a class="more" href="./cooee/">Meet Cooee →</a>
-      </div>
-      <div class="cap">
+        <span class="more">Meet Cooee →</span>
+      </a>
+      <a class="cap" href="./ai-capabilities/">
         <img src="./images/home/icon-causal.png" alt="">
         <span class="tag">Causal AI</span>
         <h3>Reason</h3>
         <p>Separates what changed from what caused it, so investments in equipment and upgrades are justified before they're made.</p>
-        <a class="more" href="./ai-capabilities/">All AI capabilities →</a>
-      </div>
+        <span class="more">All AI capabilities →</span>
+      </a>
     </div>
   </div>
 </section>
@@ -765,26 +769,30 @@ nav.main{display:none}
       <p>LEAP runs continuously, refreshing every 15 minutes — so decisions are always based on what's happening now.</p>
     </div>
     <div class="steps">
-      <div class="step">
+      <a class="step" href="./architecture/">
         <div class="n">1</div>
         <h3>Sense</h3>
         <p>Meters, building systems, solar arrays, weather stations and satellites stream data from all five campuses.</p>
-      </div>
-      <div class="step">
+        <span class="more">Platform architecture →</span>
+      </a>
+      <a class="step" href="./architecture/">
         <div class="n">2</div>
         <h3>Unify</h3>
         <p>200 data sources are brought together into one secure, governed data platform.</p>
-      </div>
-      <div class="step">
+        <span class="more">Data platform →</span>
+      </a>
+      <a class="step" href="./ai-capabilities/">
         <div class="n">3</div>
         <h3>Analyse</h3>
         <p>Predictive, Explainable, Generative and Causal AI work together over the unified data.</p>
-      </div>
-      <div class="step">
+        <span class="more">AI capabilities →</span>
+      </a>
+      <a class="step" href="./use-cases/">
         <div class="n">4</div>
         <h3>Act</h3>
         <p>Clear, prioritised insights reach facilities, finance and academic teams — every weekday morning.</p>
-      </div>
+        <span class="more">Use cases →</span>
+      </a>
     </div>
   </div>
 </section>

@@ -37,9 +37,9 @@ Cooee follows a five-stage reasoning pipeline:
 
 ## Conversational Intelligence for Sustainable Energy Management
 
-> *La Trobe University's AI-powered energy analytics platform that transforms complex sustainability data into intuitive, conversational insights.*
+> *La Trobe University's AI-powered energy platform that transforms complex sustainability data into intuitive, conversational insights.*
 
-**Cooee** (Conversational Intelligence for Energy Efficiency) is La Trobe University's flagship AI research project within the **LEAP Energy Analytics Platform** — an innovative system that enables natural language interaction with complex energy and sustainability data.
+**Cooee** (Conversational Intelligence for Energy Efficiency) is La Trobe University's flagship AI research project within the **La Trobe Energy AI Platform (LEAP)** — an innovative system that enables natural language interaction with complex energy and sustainability data.
 
 Developed by our research team, Cooee transforms traditional energy dashboards into intelligent conversational experiences, allowing users to explore sustainability metrics through natural dialogue rather than navigating complex interfaces.
 

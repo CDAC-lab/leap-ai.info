@@ -24,7 +24,7 @@ images = [ "images/banner0.jpg" ]
 # This is used for generating HTML meta tags, social media meta information
 # for the opengraph protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-description = "LEAP - La Trobe Energy Analytics Platform"
+description = "LEAP - La Trobe Energy AI Platform"
 
 # Admin options for social media.
 # Default: not set

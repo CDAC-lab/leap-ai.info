@@ -30,7 +30,7 @@ defaultContentLanguage = "en"
 # disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "La Trobe Energy Analytics Platform"
+title = "La Trobe Energy AI Platform"
 
 [outputs]
   # add JSON to the home to support Lunr search; This is a mandatory setting
@@ -84,7 +84,7 @@ title = "La Trobe Energy Analytics Platform"
 # your project
 [languages]
   [languages.en]
-    title = "LEAP - La Trobe Energy Analytics Platform"
+    title = "LEAP - La Trobe Energy AI Platform"
     weight = 1
     languageName = "English"
     # Language dependend settings:

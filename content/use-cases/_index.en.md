@@ -68,7 +68,7 @@ LEAP profiles the energy behaviour of individual equipment assets over time. The
 
 LEAP doesn't just track problems — it marks achievements. One of the platform's most significant milestones is the certification of La Trobe's Mildura campus as **carbon neutral since 2021**, powered by LEAP's continuous monitoring and optimisation.
 
-![Mildura Campus Carbon Neutral since 2021 — powered by the La Trobe Energy Analytics Platform, designed and built by the Centre for Data Analytics and Cognition](/images/leap/use-cases/mildura-carbon-neutral.png)
+![Mildura Campus Carbon Neutral since 2021 — powered by the La Trobe Energy Analytics Platform, designed and built at La Trobe University](/images/leap/use-cases/mildura-carbon-neutral.png)
 
 This is the tangible outcome of the platform's work: not a dashboard metric, but a verified real-world achievement that demonstrates what AI-driven energy management can deliver at scale.
 

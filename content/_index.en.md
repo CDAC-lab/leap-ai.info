@@ -58,11 +58,11 @@ LEAP has attracted recognition from technology leaders, national broadcasters, a
 
 ## A Living AI Lab
 
-LEAP is not just a production platform — it is a **Living AI Lab**, designed, developed and deployed by the CDAC team at La Trobe in a continuous cycle of research, innovation and real-world application.
+LEAP is not just a production platform — it is a **Living AI Lab**, designed, developed and deployed by the LEAP team at La Trobe in a continuous cycle of research, innovation and real-world application.
 
 The team building LEAP brings together four full-time academics and a cohort of PhD and research students working in an **AI Bootcamp** model — a collaborative, hands-on environment where research ideas move rapidly from concept to live deployment. LEAP is also integrated into La Trobe's **Master of Business Analytics** and **Bachelor of Business Analytics** degrees, giving approximately 150 students direct experience with a live, production-grade AI platform as part of their studies.
 
-Governance is built in by design. The **CDAC Ethics Committee** provides complete ethical, compliance and governance oversight at every stage of LEAP's development and deployment, ensuring responsible AI principles are embedded into the platform from the ground up — not retrofitted after the fact.
+Governance is built in by design. A dedicated **Ethics Committee** provides complete ethical, compliance and governance oversight at every stage of LEAP's development and deployment, ensuring responsible AI principles are embedded into the platform from the ground up — not retrofitted after the fact.
 
 LEAP's open data commitment extends the platform's value beyond the university. Two large public datasets have been released to date — [UNICON](https://github.com/CDAC-lab/UNICON) (electricity, gas and water consumption) and [UNISOLAR](https://github.com/CDAC-lab/UNISOLAR) (photovoltaic generation) — and La Trobe has hosted a dedicated **Net Zero Emissions Hackathon** to foster community engagement and external collaboration around the data.
 
@@ -102,4 +102,4 @@ The following datasets are publicly accessible:
 
 ## Contact Us
 
-Please contact us if you would like to learn more about our innovations in Energy AI for net zero emissions and sustainability: cdac@latrobe.edu.au 
+Please contact us if you would like to learn more about our innovations in Energy AI for net zero emissions and sustainability: d.desilva@latrobe.edu.au 

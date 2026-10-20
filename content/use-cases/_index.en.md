@@ -6,7 +6,7 @@ menuTitle = "Use Cases"
 
 ## LEAP in Action
 
-The following use cases demonstrate LEAP operating on live data across La Trobe's five campuses. Each represents a real operational scenario where AI-driven insights have directly informed decision-making toward net zero emissions.
+The following use cases demonstrate LEAP operating on live data across La Trobe's five campuses. Each represents a real operational scenario where AI-driven insights have directly informed decision-making as part of the Net Zero program.
 
 ---
 

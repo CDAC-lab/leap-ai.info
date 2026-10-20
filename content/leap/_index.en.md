@@ -1,12 +1,12 @@
 +++
-title = "Net Zero Emissions"
+title = "Net Zero program"
 weight = 10
-menuTitle = "Net Zero Emissions"
+menuTitle = "Net Zero program"
 +++
 
 
-## Net Zero Emissions
-La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
+## Net Zero program
+La Trobe University committed to reducing its emissions with the launch of the Net Zero program in 2019. The program covers:
 
 - **Campus Coverage**: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces.
 - **Large Scale Projects**: 20 significant projects across the university focusing on:
@@ -17,5 +17,5 @@ La Trobe University aims to achieve Net Zero emissions by 2029, becoming the fir
 - **Waste Reduction**: Implementing organic recycling programs.
 - **Green Star Buildings**: Including the Sports Stadium, which boasts a 6 Green Star rating.
 
-La Trobe University has already achieved significant milestones on its journey to net zero, including achieving net zero emissions status for its regional campuses by 2022. The university has installed around 7,500 solar panels at its Bundoora campus, generating 2.5 MW of renewable energy. The new solar farm at Bundoora, set to be the largest urban solar farm in Victoria, adds a further 3.6 MW, doubling the university's solar capacity from 3.6 MW to 7.2 MW.
+La Trobe University has already achieved significant milestones on its journey to reducing emissions, including achieving carbon neutral certification for its regional campuses by 2022. The university has installed around 7,500 solar panels at its Bundoora campus, generating 2.5 MW of renewable energy. The new solar farm at Bundoora, set to be the largest urban solar farm in Victoria, adds a further 3.6 MW, doubling the university's solar capacity from 3.6 MW to 7.2 MW.
 

@@ -6,7 +6,7 @@ menuTitle = "Future Vision"
 
 ## Future Vision
 
-LEAP is a platform in active evolution. As La Trobe advances toward its Net Zero 2029 goal, LEAP's roadmap extends its intelligence into new domains — deepening its research capabilities, expanding its community reach, and opening the platform to organisations beyond the university.
+LEAP is a platform in active evolution. As La Trobe advances its Net Zero program, LEAP's roadmap extends its intelligence into new domains — deepening its research capabilities, expanding its community reach, and opening the platform to organisations beyond the university.
 
 ---
 
@@ -44,4 +44,4 @@ LEAP was purpose-built for La Trobe's complex, multi-campus estate — but the p
 
 ---
 
-*LEAP's future is a continuation of its founding purpose: to demonstrate that artificial intelligence, applied thoughtfully and ethically to real-world infrastructure, can accelerate the transition to a sustainable, net zero future.*
+*LEAP's future is a continuation of its founding purpose: to demonstrate that artificial intelligence, applied thoughtfully and ethically to real-world infrastructure, can accelerate the transition to a sustainable, low emissions future.*

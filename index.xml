@@ -8,11 +8,11 @@
     <language>en</language>
     <atom:link href="https://leap-ai.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Net Zero Emissions</title>
+      <title>Net Zero program</title>
       <link>https://leap-ai.info/leap/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leap-ai.info/leap/index.html</guid>
-      <description>Net Zero Emissions La Trobe University aims to achieve Net Zero emissions by 2029, becoming the first Victorian University to reach this milestone. The program covers:
+      <description>Net Zero program La Trobe University committed to reducing its emissions with the launch of the Net Zero program in 2019. The program covers:
 Campus Coverage: 267 hectares (660 acres) across 5 campuses, encompassing over 100 buildings and spaces. Large Scale Projects: 20 significant projects across the university focusing on: Renewable Energy Expansion: Installation of Solar PV systems with 2.5 MW capacity in Bundoora and 1.1 MW in regional campuses, plus a 3.</description>
     </item>
     <item>
@@ -47,7 +47,7 @@ Users access the React.js LEAP application, which authenticates via Azure Active
       <link>https://leap-ai.info/use-cases/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leap-ai.info/use-cases/index.html</guid>
-      <description>LEAP in Action The following use cases demonstrate LEAP operating on live data across La Trobe&amp;rsquo;s five campuses. Each represents a real operational scenario where AI-driven insights have directly informed decision-making toward net zero emissions.
+      <description>LEAP in Action The following use cases demonstrate LEAP operating on live data across La Trobe&amp;rsquo;s five campuses. Each represents a real operational scenario where AI-driven insights have directly informed decision-making as part of the Net Zero program.
 Campus-Wide Energy Overview LEAP provides a unified view of energy consumption, generation, saved CO₂ emissions, and cost savings across every campus — simultaneously. Facilities managers can drill from the all-campuses summary into any individual campus or building in a single click.</description>
     </item>
     <item>
@@ -71,7 +71,7 @@ Fleet Health &amp;amp; Meter Status LEAP monitors the health of every building m
       <link>https://leap-ai.info/future-vision/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leap-ai.info/future-vision/index.html</guid>
-      <description>Future Vision LEAP is a platform in active evolution. As La Trobe advances toward its Net Zero 2029 goal, LEAP&amp;rsquo;s roadmap extends its intelligence into new domains — deepening its research capabilities, expanding its community reach, and opening the platform to organisations beyond the university.
+      <description>Future Vision LEAP is a platform in active evolution. As La Trobe advances its Net Zero program, LEAP&amp;rsquo;s roadmap extends its intelligence into new domains — deepening its research capabilities, expanding its community reach, and opening the platform to organisations beyond the university.
 Electric Vehicle &amp;amp; Battery Research La Trobe is home to Australia&amp;rsquo;s first dedicated EV research hub, supported by a $5.2M Victorian Government investment. LEAP is positioned as the intelligence layer for this facility — integrating EV charging load data, battery storage profiles and grid interactions into the platform&amp;rsquo;s forecasting and optimisation models.</description>
     </item>
     <item>
